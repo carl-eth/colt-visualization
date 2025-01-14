@@ -1,0 +1,1001 @@
+TripID,LeaderID,LeaderCountry,LeaderCountryISO,LeaderR,LeaderSt,PriorityL,LeaderRo,LeaderTitle,LeaderSurname,LeaderFullName,Exiled,Country,RegionVi,SubRegic,Disputed,SemiAut,TripYear,TripStartDat,TripEndDate
+751-AFG-PAK-84457,1671,Kuwait,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,0,Canada,America,North/South,Yes,Yes,2009,03/05/2009,07/09/2009
+693-AFG-TJK-60295,200,Romania,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Portugal,Other,Other,No,No,1996,06/22/1996,10/06/1996
+466-AFG-TJK-84157,1054,Netherlands,AFG,Asia,Southern,Yes,S,King,Rabbani,Rabbani Rabbani,1,Lebanon,Other,Other,Yes,No,1994,06/20/1994,09/29/1994
+841-AFG-IRN-61531,1017,Singapore,AFG,Asia,Southern,No,De Facto,Emperor,Karzai,Karzai Karzai,0,Niger,Other,Other,No,Yes,2002,10/18/2002,12/11/2002
+441-AFG-UZB-46399,1288,United States,AFG,Asia,Southern,Yes,S,President,Mojadedi,Mojadedi Mojadedi,0,Bahamas,Other,Other,Yes,No,1990,01/25/1990,06/25/1990
+940-AFG-TJK-67421,1524,Paraguay,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,0,Zambia,Other,Other,No,Yes,1999,06/13/1999,09/24/1999
+897-AFG-SUN-92738,824,Dominican Republic,AFG,Asia,Southern,Yes,S,President,Rabbani,Rabbani Rabbani,1,Philippines,Other,Other,No,No,2002,03/12/2002,08/02/2002
+918-AFG-PAK-99958,622,Belarus,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Netherlands,Other,Other,Yes,Yes,2016,05/28/2016,07/16/2016
+914-AFG-IRN-94801,1951,Mauritius,AFG,Asia,Southern,No,GS,Emperor,Karzai,Karzai Karzai,0,Turkey,Other,Other,No,Yes,2018,02/07/2018,02/22/2018
+365-AFG-IND-86229,1562,Georgia,AFG,Asia,Southern,No,GS,King,Karzai,Karzai Karzai,1,Iraq,Other,Other,Yes,No,2005,01/04/2005,02/12/2005
+734-AFG-IND-55529,917,France,AFG,Asia,Southern,Yes,GS,King,Rabbani,Rabbani Rabbani,0,Mongolia,Other,Other,Yes,No,1997,07/02/1997,08/23/1997
+195-AFG-UZB-93060,426,Portugal,AFG,Asia,Southern,No,De Facto,Chancellor,Karzai,Karzai Karzai,1,India,Asia,Southern,Yes,Yes,2000,05/12/2000,10/05/2000
+748-AFG-IRN-70859,440,Thailand,AFG,Asia,Southern,No,De Facto,General Secretary,Rabbani,Rabbani Rabbani,0,France,Europe,Western,No,No,2013,04/23/2013,12/03/2013
+964-AFG-IRN-35003,1137,Vietnam,AFG,Asia,Southern,Yes,S,Emperor,Rabbani,Rabbani Rabbani,0,Bolivia,Other,Other,No,Yes,1995,04/09/1995,10/30/1995
+147-AFG-PAK-39760,1838,Norway,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Slovenia,Other,Other,No,No,2020,07/21/2020,10/15/2020
+178-AFG-TJK-73071,126,Mongolia,AFG,Asia,Southern,No,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Finland,Other,Other,Yes,Yes,2006,09/28/2006,10/30/2006
+636-AFG-UZB-97404,200,Botswana,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Sweden,Other,Other,Yes,No,2018,02/06/2018,04/10/2018
+149-AFG-IND-46141,449,Nepal,AFG,Asia,Southern,No,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Hungary,Other,Other,No,No,2021,03/11/2021,05/10/2021
+454-AFG-IND-75999,870,Colombia,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Mauritius,Other,Other,Yes,Yes,2012,08/03/2012,10/12/2012
+463-AFG-UZB-77670,1115,Uganda,AFG,Asia,Southern,Yes,GS,Chancellor,Karzai,Karzai Karzai,0,Tajikistan,Asia,Southern,Yes,Yes,2021,10/04/2021,12/30/2021
+308-AFG-SUN-71685,862,Syria,AFG,Asia,Southern,No,S,King,Najibullah,Najibullah Najibullah,0,Uganda,Other,Other,No,No,2018,04/27/2018,06/04/2018
+376-AFG-UZB-70411,943,Sri Lanka,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,1,Lithuania,Other,Other,No,No,1991,02/11/1991,02/21/1991
+338-AFG-SUN-91565,1196,Iceland,AFG,Asia,Southern,Yes,GS,President,Karzai,Karzai Karzai,0,Ecuador,Other,Other,No,Yes,1992,04/05/1992,05/23/1992
+398-AFG-IRN-99860,694,Belgium,AFG,Asia,Southern,Yes,S,Emperor,Rabbani,Rabbani Rabbani,1,Mauritius,Other,Other,No,Yes,2006,03/30/2006,12/22/2006
+136-AFG-UZB-37874,1533,Vietnam,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,France,Europe,Western,No,No,2008,02/29/2008,06/26/2008
+138-AFG-IRN-58033,1395,Norway,AFG,Asia,Southern,Yes,De Facto,Emperor,Karzai,Karzai Karzai,0,Lesotho,Other,Other,Yes,No,2011,04/13/2011,06/15/2011
+360-AFG-IRN-39888,1428,Chad,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Namibia,Other,Other,No,Yes,2011,02/08/2011,04/23/2011
+873-AFG-PAK-82396,993,Ukraine,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,1,Hungary,Other,Other,Yes,No,1997,02/28/1997,05/20/1997
+825-AFG-IRN-89402,1286,Philippines,AFG,Asia,Southern,No,GS,General Secretary,Karzai,Karzai Karzai,0,Mongolia,Other,Other,Yes,No,2018,03/08/2018,08/30/2018
+751-AFG-IRN-34991,1695,Belarus,AFG,Asia,Southern,Yes,S,President,Mojadedi,Mojadedi Mojadedi,0,Australia,Other,Other,No,Yes,2020,01/10/2020,02/29/2020
+482-AFG-PAK-91418,1704,Angola,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,0,Central African Republic,Other,Other,No,Yes,2019,03/11/2019,12/23/2019
+365-AFG-TJK-79791,1074,Uruguay,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,1,Finland,Other,Other,No,No,2010,02/07/2010,02/20/2010
+533-AFG-TJK-62262,530,Afghanistan,AFG,Asia,Southern,No,De Facto,Prime Minister,Najibullah,Najibullah Najibullah,0,Hungary,Other,Other,No,No,2006,01/25/2006,06/11/2006
+133-AFG-SUN-40854,1629,Greece,AFG,Asia,Southern,No,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Bulgaria,Other,Other,No,Yes,1999,09/30/1999,10/31/1999
+460-AFG-IND-78352,1053,Guatemala,AFG,Asia,Southern,No,GS,Acting President,Karzai,Karzai Karzai,1,Angola,Other,Other,Yes,No,2021,04/05/2021,09/11/2021
+699-AFG-IRN-75377,997,Tajikistan,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,1,Egypt,Africa,Northern/Southern,No,No,2017,02/19/2017,05/27/2017
+793-AFG-TJK-91152,1799,Afghanistan,AFG,Asia,Southern,Yes,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Maldives,Other,Other,No,No,2013,01/23/2013,11/18/2013
+898-AFG-PAK-63100,1472,Sudan,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,1,Ukraine,Other,Other,Yes,Yes,2001,01/03/2001,07/12/2001
+781-AFG-TJK-61428,1028,Mongolia,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,1,Uruguay,Other,Other,Yes,No,2020,03/05/2020,07/29/2020
+959-AFG-TJK-82291,1904,Qatar,AFG,Asia,Southern,No,De Facto,Prime Minister,Najibullah,Najibullah Najibullah,1,Uzbekistan,Asia,Southern,Yes,No,1991,05/14/1991,12/26/1991
+455-AFG-UZB-98887,1474,Jamaica,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Japan,Other,Other,No,Yes,2009,01/18/2009,05/05/2009
+150-AFG-TJK-66856,847,Zimbabwe,AFG,Asia,Southern,Yes,GS,King,Karzai,Karzai Karzai,0,Barbados,Other,Other,No,Yes,2008,03/16/2008,09/11/2008
+452-AFG-PAK-75108,1200,Mongolia,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Afghanistan,Asia,Southern,No,No,2021,02/01/2021,09/08/2021
+428-AFG-PAK-45891,116,Bulgaria,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Mongolia,Other,Other,No,Yes,1991,03/21/1991,09/10/1991
+779-AFG-IRN-64195,1185,Central African Republic,AFG,Asia,Southern,No,De Facto,General Secretary,Najibullah,Najibullah Najibullah,1,Iceland,Other,Other,Yes,No,1998,02/17/1998,09/16/1998
+394-AFG-UZB-78886,1799,Afghanistan,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,El Salvador,Other,Other,Yes,No,2009,01/19/2009,12/25/2009
+232-AFG-PAK-54661,194,Honduras,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,0,Lesotho,Other,Other,Yes,Yes,1990,06/18/1990,08/23/1990
+337-AFG-UZB-72135,1452,Jordan,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,Cameroon,Other,Other,No,No,2003,05/02/2003,06/24/2003
+124-AFG-IND-49206,1153,Malawi,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,1,Russia,Other,Other,No,No,2009,02/08/2009,07/14/2009
+302-AFG-SUN-55751,1299,Senegal,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,0,Niger,Other,Other,Yes,Yes,2002,09/13/2002,09/21/2002
+119-AFG-PAK-36286,1428,Russia,AFG,Asia,Southern,Yes,GS,King,Rabbani,Rabbani Rabbani,0,Mexico,America,North/South,Yes,Yes,2014,01/18/2014,06/09/2014
+967-AFG-TJK-87354,426,Honduras,AFG,Asia,Southern,Yes,S,Acting President,Mojadedi,Mojadedi Mojadedi,0,Jamaica,Other,Other,No,Yes,2020,01/14/2020,12/16/2020
+913-AFG-TJK-56651,1235,Panama,AFG,Asia,Southern,Yes,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,Costa Rica,Other,Other,No,Yes,2013,08/17/2013,09/19/2013
+292-AFG-TJK-76103,1614,Panama,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,1,Vietnam,Other,Other,No,Yes,2022,05/09/2022,06/22/2022
+169-AFG-IRN-74083,249,Finland,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Tajikistan,Asia,Southern,Yes,Yes,2016,06/19/2016,12/22/2016
+409-AFG-SUN-64729,1179,Norway,AFG,Asia,Southern,Yes,De Facto,Acting President,Karzai,Karzai Karzai,1,Peru,Other,Other,Yes,No,1996,01/05/1996,12/16/1996
+472-AFG-TJK-47268,183,Czech Republic,AFG,Asia,Southern,No,De Facto,Head of State,Karzai,Karzai Karzai,0,Slovenia,Other,Other,Yes,No,2021,10/08/2021,10/13/2021
+972-AFG-SUN-42748,781,Nigeria,AFG,Asia,Southern,No,De Facto,Prime Minister,Karzai,Karzai Karzai,1,Sudan,Other,Other,Yes,Yes,1999,05/10/1999,05/13/1999
+636-AFG-SUN-95989,868,Turkmenistan,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,0,Malawi,Other,Other,No,No,2023,01/14/2023,03/07/2023
+562-AFG-SUN-47316,1502,Ecuador,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,0,Mauritius,Other,Other,No,Yes,2006,01/26/2006,06/30/2006
+624-AFG-TJK-84975,1801,Sudan,AFG,Asia,Southern,No,De Facto,General Secretary,Rabbani,Rabbani Rabbani,1,Kazakhstan,Other,Other,Yes,Yes,2007,12/03/2007,12/28/2007
+142-AFG-IRN-53374,1828,Slovakia,AFG,Asia,Southern,No,De Facto,Prime Minister,Karzai,Karzai Karzai,1,Yemen,Other,Other,Yes,Yes,1993,08/16/1993,08/19/1993
+179-AFG-IND-39968,1752,Azerbaijan,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,Yemen,Other,Other,Yes,Yes,2014,04/16/2014,08/10/2014
+306-AFG-UZB-38460,361,Romania,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,0,Bahamas,Other,Other,No,Yes,2020,03/21/2020,06/29/2020
+595-AFG-IRN-82154,1571,El Salvador,AFG,Asia,Southern,No,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Netherlands,Other,Other,No,No,2023,04/02/2023,11/20/2023
+384-AFG-IRN-47479,250,Kyrgyzstan,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,1,Nigeria,Africa,Northern/Southern,Yes,No,2010,12/17/2010,12/30/2010
+298-AFG-TJK-42321,1414,United States,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Indonesia,Other,Other,Yes,Yes,2019,09/03/2019,12/04/2019
+829-AFG-UZB-95734,1486,Iran,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,0,Croatia,Other,Other,No,No,2016,04/29/2016,10/07/2016
+464-AFG-UZB-71800,1868,Congo,AFG,Asia,Southern,No,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Serbia,Other,Other,Yes,No,1995,03/10/1995,04/25/1995
+864-AFG-IRN-97323,609,Bulgaria,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,1,Seychelles,Other,Other,Yes,Yes,2007,09/01/2007,09/13/2007
+345-AFG-SUN-89634,1069,Tajikistan,AFG,Asia,Southern,No,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Lesotho,Other,Other,No,Yes,2020,01/26/2020,04/15/2020
+530-AFG-SUN-79000,1237,Belarus,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Lesotho,Other,Other,Yes,Yes,1997,08/05/1997,12/18/1997
+128-AFG-PAK-53998,1552,Sierra Leone,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,0,Venezuela,Other,Other,No,Yes,2020,03/20/2020,09/20/2020
+158-AFG-SUN-67389,178,Kazakhstan,AFG,Asia,Southern,Yes,De Facto,General Secretary,Karzai,Karzai Karzai,0,Rwanda,Other,Other,No,No,2019,05/17/2019,10/30/2019
+401-AFG-IND-74384,1285,Botswana,AFG,Asia,Southern,No,S,General Secretary,Rabbani,Rabbani Rabbani,1,South Africa,Africa,Northern/Southern,No,Yes,1991,01/02/1991,02/07/1991
+971-AFG-PAK-35458,205,Mozambique,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,1,Nepal,Other,Other,Yes,Yes,1995,02/19/1995,05/27/1995
+727-AFG-PAK-58971,447,Austria,AFG,Asia,Southern,Yes,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Argentina,America,North/South,Yes,Yes,2000,09/22/2000,09/30/2000
+378-AFG-IRN-91847,1273,Kazakhstan,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Georgia,Other,Other,No,Yes,2007,05/09/2007,11/22/2007
+655-AFG-TJK-52869,921,Australia,AFG,Asia,Southern,No,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Finland,Other,Other,Yes,Yes,2017,08/14/2017,10/04/2017
+855-AFG-IRN-34508,709,Barbados,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,1,Egypt,Africa,Northern/Southern,Yes,No,2000,04/07/2000,04/11/2000
+699-AFG-SUN-51285,1889,Latvia,AFG,Asia,Southern,No,S,Head of State,Rabbani,Rabbani Rabbani,1,Oman,Other,Other,No,Yes,2014,05/02/2014,09/28/2014
+140-AFG-SUN-93690,368,Kazakhstan,AFG,Asia,Southern,No,S,President,Mojadedi,Mojadedi Mojadedi,0,Rwanda,Other,Other,Yes,No,2004,06/08/2004,07/15/2004
+226-AFG-IND-66868,1326,Norway,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,0,El Salvador,Other,Other,Yes,Yes,2010,11/11/2010,12/17/2010
+279-AFG-SUN-36090,225,Mozambique,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,1,Argentina,America,North/South,No,No,1999,06/22/1999,07/23/1999
+624-AFG-PAK-53637,1684,Russia,AFG,Asia,Southern,Yes,GS,President,Rabbani,Rabbani Rabbani,1,Denmark,Other,Other,No,Yes,1993,03/11/1993,12/15/1993
+917-AFG-TJK-43451,1415,Tajikistan,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,1,Eswatini,Other,Other,Yes,No,2005,05/01/2005,05/05/2005
+837-AFG-IND-34877,327,Canada,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,1,Eswatini,Other,Other,Yes,Yes,1991,05/18/1991,05/22/1991
+274-AFG-PAK-99291,678,Haiti,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Niger,Other,Other,Yes,No,2016,04/12/2016,12/24/2016
+622-AFG-SUN-36767,221,Trinidad and Tobago,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,0,Afghanistan,Asia,Southern,No,No,2017,10/15/2017,12/09/2017
+810-AFG-TJK-37511,1347,Costa Rica,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Turkey,Other,Other,No,Yes,1995,01/27/1995,09/11/1995
+921-AFG-TJK-90497,120,Botswana,AFG,Asia,Southern,Yes,S,Chancellor,Karzai,Karzai Karzai,1,Dominican Republic,Other,Other,No,No,1995,08/18/1995,11/22/1995
+513-AFG-SUN-85591,1216,Sri Lanka,AFG,Asia,Southern,No,De Facto,Emperor,Karzai,Karzai Karzai,0,Nigeria,Africa,Northern/Southern,No,No,2011,07/26/2011,12/11/2011
+660-AFG-UZB-56530,1603,Saudi Arabia,AFG,Asia,Southern,Yes,S,General Secretary,Karzai,Karzai Karzai,0,Sudan,Other,Other,No,No,2020,06/02/2020,10/12/2020
+366-AFG-UZB-71615,365,South Sudan,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,0,South Africa,Africa,Northern/Southern,No,No,1999,01/07/1999,02/09/1999
+470-AFG-TJK-36290,559,Mexico,AFG,Asia,Southern,Yes,S,Chancellor,Najibullah,Najibullah Najibullah,1,Trinidad and Tobago,Other,Other,No,Yes,1991,02/06/1991,09/07/1991
+917-AFG-IRN-33863,726,Qatar,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,0,Cuba,Other,Other,Yes,No,2018,03/02/2018,10/07/2018
+410-AFG-SUN-49295,213,Bangladesh,AFG,Asia,Southern,No,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Vietnam,Other,Other,Yes,No,1991,06/08/1991,09/08/1991
+699-AFG-IND-50177,635,Senegal,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Democratic Republic of the Congo,Other,Other,No,Yes,1997,10/17/1997,12/15/1997
+650-AFG-IRN-91924,479,Iran,AFG,Asia,Southern,No,De Facto,Acting President,Rabbani,Rabbani Rabbani,0,Chile,Other,Other,No,No,1996,06/12/1996,06/16/1996
+774-AFG-PAK-82086,1865,Iceland,AFG,Asia,Southern,Yes,GS,Chancellor,Karzai,Karzai Karzai,1,Zimbabwe,Other,Other,No,Yes,2009,02/02/2009,02/13/2009
+141-AFG-IRN-92484,1661,Venezuela,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,0,Hungary,Other,Other,Yes,Yes,1991,03/14/1991,11/13/1991
+145-AFG-TJK-49488,467,Afghanistan,AFG,Asia,Southern,No,GS,General Secretary,Karzai,Karzai Karzai,1,Eswatini,Other,Other,No,No,1992,08/20/1992,12/14/1992
+143-AFG-IND-92699,1072,Iran,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,1,South Sudan,Other,Other,Yes,Yes,2012,01/28/2012,04/19/2012
+769-AFG-IRN-59758,529,Seychelles,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Rwanda,Other,Other,No,No,2003,05/04/2003,08/04/2003
+477-AFG-TJK-92986,191,Kuwait,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,0,Canada,America,North/South,No,Yes,2000,02/22/2000,12/09/2000
+585-AFG-SUN-97566,263,Spain,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Democratic Republic of the Congo,Other,Other,No,No,2007,09/27/2007,11/10/2007
+823-AFG-UZB-37941,1174,Brazil,AFG,Asia,Southern,No,S,Emperor,Mojadedi,Mojadedi Mojadedi,1,Finland,Other,Other,Yes,Yes,1990,09/10/1990,10/18/1990
+243-AFG-UZB-40914,356,Croatia,AFG,Asia,Southern,Yes,S,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Croatia,Other,Other,Yes,No,2008,02/27/2008,11/13/2008
+963-AFG-IND-80212,1198,Switzerland,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,0,Panama,Other,Other,Yes,No,2002,06/14/2002,10/23/2002
+158-AFG-PAK-62681,1745,Spain,AFG,Asia,Southern,Yes,S,King,Mojadedi,Mojadedi Mojadedi,0,Hungary,Other,Other,No,No,2006,07/29/2006,09/03/2006
+703-AFG-UZB-89917,1862,Iran,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,1,Chad,Other,Other,No,Yes,2018,01/27/2018,02/08/2018
+232-AFG-PAK-82961,1880,Seychelles,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,0,Costa Rica,Other,Other,No,Yes,2006,05/08/2006,12/27/2006
+406-AFG-IRN-60374,328,Eswatini,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,0,Oman,Other,Other,No,Yes,1991,01/20/1991,11/04/1991
+177-AFG-PAK-74767,1837,Mauritius,AFG,Asia,Southern,Yes,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Zambia,Other,Other,No,Yes,2016,12/01/2016,12/31/2016
+379-AFG-PAK-36443,1838,Iceland,AFG,Asia,Southern,No,S,King,Rabbani,Rabbani Rabbani,0,Bhutan,Other,Other,No,No,2007,01/12/2007,03/04/2007
+512-AFG-UZB-47925,1850,Belgium,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,1,Peru,Other,Other,No,No,2010,03/14/2010,07/28/2010
+770-AFG-IRN-62827,251,Ecuador,AFG,Asia,Southern,Yes,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Uruguay,Other,Other,Yes,Yes,1996,07/31/1996,08/05/1996
+537-AFG-SUN-64983,1184,Estonia,AFG,Asia,Southern,Yes,GS,Emperor,Rabbani,Rabbani Rabbani,0,Democratic Republic of the Congo,Other,Other,No,Yes,1991,03/24/1991,05/07/1991
+761-AFG-UZB-70420,221,Tajikistan,AFG,Asia,Southern,No,GS,President,Karzai,Karzai Karzai,1,Dominican Republic,Other,Other,Yes,Yes,2018,09/03/2018,12/30/2018
+599-AFG-PAK-50254,981,Trinidad and Tobago,AFG,Asia,Southern,No,GS,Head of State,Mojadedi,Mojadedi Mojadedi,1,Sweden,Other,Other,No,No,1996,03/23/1996,04/05/1996
+613-AFG-SUN-46475,1437,Thailand,AFG,Asia,Southern,No,De Facto,Acting President,Rabbani,Rabbani Rabbani,0,United States,America,North/South,No,No,1994,03/05/1994,12/31/1994
+215-AFG-UZB-83647,1092,Turkey,AFG,Asia,Southern,Yes,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Armenia,Other,Other,No,Yes,2012,01/24/2012,03/23/2012
+914-AFG-IND-71865,1695,Finland,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Nepal,Other,Other,Yes,Yes,2003,03/29/2003,10/15/2003
+352-AFG-PAK-43139,1783,Iran,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,0,Malaysia,Other,Other,No,No,2005,05/01/2005,10/27/2005
+620-AFG-IND-79066,1764,Mozambique,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,0,Nigeria,Africa,Northern/Southern,No,Yes,2007,01/22/2007,02/17/2007
+324-AFG-PAK-86950,789,Botswana,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,1,Haiti,Other,Other,Yes,No,2016,01/17/2016,04/29/2016
+394-AFG-UZB-87858,477,Guatemala,AFG,Asia,Southern,Yes,De Facto,Emperor,Karzai,Karzai Karzai,1,Mexico,America,North/South,No,No,2000,01/31/2000,10/13/2000
+815-AFG-IND-48584,1522,Eswatini,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,0,Romania,Other,Other,No,No,2015,03/19/2015,10/01/2015
+904-AFG-PAK-38219,514,Ukraine,AFG,Asia,Southern,Yes,S,King,Najibullah,Najibullah Najibullah,0,Ecuador,Other,Other,No,No,2002,01/16/2002,10/06/2002
+343-AFG-IND-92628,249,Peru,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Pakistan,Asia,Southern,No,No,2014,01/10/2014,03/21/2014
+553-AFG-SUN-61054,1280,Uzbekistan,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Iceland,Other,Other,Yes,Yes,2017,03/27/2017,09/06/2017
+274-AFG-TJK-58571,1569,Italy,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,0,Kyrgyzstan,Other,Other,No,Yes,2023,02/26/2023,03/22/2023
+102-AFG-SUN-59187,687,Sierra Leone,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Chile,Other,Other,No,No,1996,05/01/1996,12/14/1996
+856-AFG-SUN-47018,1744,Iraq,AFG,Asia,Southern,No,S,Emperor,Mojadedi,Mojadedi Mojadedi,0,Sierra Leone,Other,Other,Yes,Yes,1997,09/26/1997,10/28/1997
+808-AFG-PAK-50378,211,Sierra Leone,AFG,Asia,Southern,Yes,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Malawi,Other,Other,No,No,1990,05/22/1990,08/04/1990
+146-AFG-SUN-96838,209,Lesotho,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,1,Indonesia,Other,Other,Yes,No,1995,05/18/1995,08/13/1995
+730-AFG-TJK-99861,1780,Eswatini,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Malawi,Other,Other,No,Yes,2023,01/20/2023,10/17/2023
+916-AFG-UZB-86881,1535,Rwanda,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,1,Saudi Arabia,Other,Other,No,No,2014,06/11/2014,12/02/2014
+316-AFG-UZB-90118,1225,Honduras,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,0,Finland,Other,Other,Yes,No,2005,08/25/2005,10/04/2005
+985-AFG-PAK-40821,873,Sierra Leone,AFG,Asia,Southern,Yes,De Facto,Acting President,Rabbani,Rabbani Rabbani,1,Oman,Other,Other,Yes,Yes,2023,02/27/2023,09/17/2023
+853-AFG-UZB-67180,1665,Romania,AFG,Asia,Southern,No,S,Emperor,Mojadedi,Mojadedi Mojadedi,1,Austria,Other,Other,No,No,2000,04/21/2000,10/10/2000
+995-AFG-SUN-48058,155,Botswana,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,1,Portugal,Other,Other,Yes,No,2014,10/18/2014,12/10/2014
+577-AFG-IND-76766,1842,Syria,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Karzai,Karzai Karzai,1,Argentina,America,North/South,No,No,2001,03/22/2001,06/19/2001
+626-AFG-SUN-69116,1717,Bahamas,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,1,Maldives,Other,Other,No,Yes,2018,02/11/2018,04/23/2018
+109-AFG-IND-99641,1472,Mauritius,AFG,Asia,Southern,Yes,GS,King,Karzai,Karzai Karzai,1,Singapore,Other,Other,Yes,No,1992,02/22/1992,11/06/1992
+963-AFG-IND-41650,1217,Dominican Republic,AFG,Asia,Southern,Yes,S,Prime Minister,Rabbani,Rabbani Rabbani,0,Switzerland,Other,Other,No,Yes,1991,03/19/1991,04/02/1991
+315-AFG-UZB-53492,163,Slovenia,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,0,Bahrain,Other,Other,No,No,2022,01/04/2022,06/11/2022
+215-AFG-SUN-51391,1685,Peru,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,1,Eswatini,Other,Other,No,No,2014,05/16/2014,07/07/2014
+612-AFG-IRN-54249,829,Democratic Republic of the Congo,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,1,Congo,Other,Other,No,No,2017,02/23/2017,12/10/2017
+701-AFG-TJK-60508,498,Bangladesh,AFG,Asia,Southern,Yes,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Jordan,Other,Other,No,Yes,2002,10/24/2002,11/09/2002
+185-AFG-IRN-93529,1903,Brazil,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,South Sudan,Other,Other,No,Yes,2022,01/18/2022,06/27/2022
+304-AFG-SUN-59914,1989,Thailand,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,0,Bolivia,Other,Other,Yes,No,1991,04/09/1991,11/18/1991
+794-AFG-IRN-95436,1043,Thailand,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Estonia,Other,Other,Yes,No,2019,05/30/2019,06/13/2019
+786-AFG-PAK-58096,864,Jamaica,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,1,Romania,Other,Other,Yes,Yes,2014,01/02/2014,02/23/2014
+694-AFG-UZB-44150,1041,Kazakhstan,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,0,Ecuador,Other,Other,Yes,Yes,1993,03/22/1993,07/09/1993
+533-AFG-IRN-65051,921,Chile,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Cuba,Other,Other,No,No,2018,06/04/2018,11/23/2018
+820-AFG-TJK-42291,1778,Cuba,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,1,Kazakhstan,Other,Other,Yes,Yes,2018,05/28/2018,08/28/2018
+670-AFG-IND-34435,870,Norway,AFG,Asia,Southern,No,S,Chancellor,Najibullah,Najibullah Najibullah,0,Peru,Other,Other,No,Yes,1990,03/16/1990,09/14/1990
+746-AFG-SUN-52991,519,India,AFG,Asia,Southern,No,S,Prime Minister,Najibullah,Najibullah Najibullah,0,Jordan,Other,Other,Yes,No,2003,06/06/2003,09/04/2003
+922-AFG-PAK-46134,1727,Iraq,AFG,Asia,Southern,No,S,Prime Minister,Najibullah,Najibullah Najibullah,1,Zimbabwe,Other,Other,No,No,2003,02/08/2003,10/03/2003
+350-AFG-IND-98487,669,Paraguay,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,0,Haiti,Other,Other,No,Yes,2008,01/28/2008,09/08/2008
+599-AFG-IND-96672,366,Italy,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,Namibia,Other,Other,Yes,No,2021,02/22/2021,03/27/2021
+393-AFG-IND-64367,307,Bahrain,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,Saudi Arabia,Other,Other,No,Yes,1990,02/19/1990,12/24/1990
+899-AFG-TJK-93980,756,Chad,AFG,Asia,Southern,No,S,Emperor,Rabbani,Rabbani Rabbani,0,United States,America,North/South,Yes,Yes,2004,11/25/2004,12/07/2004
+182-AFG-SUN-70139,510,Senegal,AFG,Asia,Southern,No,De Facto,General Secretary,Najibullah,Najibullah Najibullah,0,Afghanistan,Asia,Southern,Yes,Yes,2021,09/07/2021,11/21/2021
+114-AFG-IRN-73874,237,France,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,0,Denmark,Other,Other,Yes,Yes,2006,03/01/2006,09/18/2006
+111-AFG-TJK-88226,1806,Honduras,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,0,Mongolia,Other,Other,Yes,No,1994,04/12/1994,05/23/1994
+967-AFG-SUN-36932,424,Slovenia,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,1,Democratic Republic of the Congo,Other,Other,No,Yes,2009,06/13/2009,06/18/2009
+367-AFG-IRN-36443,628,Vietnam,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Belarus,Other,Other,Yes,No,1999,04/13/1999,04/18/1999
+986-AFG-TJK-36263,1206,Cameroon,AFG,Asia,Southern,No,De Facto,King,Karzai,Karzai Karzai,0,Central African Republic,Other,Other,No,No,2005,02/07/2005,09/29/2005
+862-AFG-UZB-62093,958,Italy,AFG,Asia,Southern,Yes,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Cameroon,Other,Other,No,No,2019,06/11/2019,10/26/2019
+811-AFG-SUN-46838,1495,Russia,AFG,Asia,Southern,Yes,GS,Emperor,Najibullah,Najibullah Najibullah,1,Russia,Other,Other,No,No,2002,05/27/2002,06/14/2002
+599-AFG-IRN-66001,1056,Serbia,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,0,Sweden,Other,Other,Yes,Yes,2019,04/10/2019,10/21/2019
+590-AFG-TJK-73685,359,Tanzania,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Latvia,Other,Other,Yes,Yes,2010,08/16/2010,11/20/2010
+202-AFG-UZB-94264,150,Armenia,AFG,Asia,Southern,Yes,GS,Acting President,Najibullah,Najibullah Najibullah,1,Belgium,Other,Other,Yes,Yes,2015,05/15/2015,08/03/2015
+526-AFG-PAK-41099,1337,Sierra Leone,AFG,Asia,Southern,No,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Netherlands,Other,Other,No,Yes,1996,08/22/1996,12/28/1996
+247-AFG-SUN-74127,1721,Australia,AFG,Asia,Southern,No,S,Chancellor,Najibullah,Najibullah Najibullah,0,Jordan,Other,Other,No,No,1996,01/18/1996,06/01/1996
+656-AFG-PAK-50409,1459,Tajikistan,AFG,Asia,Southern,Yes,S,Prime Minister,Karzai,Karzai Karzai,0,Namibia,Other,Other,No,Yes,2012,05/30/2012,09/03/2012
+719-AFG-IRN-50384,807,Costa Rica,AFG,Asia,Southern,Yes,GS,Chancellor,Najibullah,Najibullah Najibullah,0,Niger,Other,Other,Yes,Yes,2020,09/06/2020,09/22/2020
+519-AFG-UZB-60349,1962,Belarus,AFG,Asia,Southern,No,S,King,Najibullah,Najibullah Najibullah,1,Lesotho,Other,Other,No,Yes,2004,03/27/2004,08/21/2004
+191-AFG-TJK-85673,1775,Belarus,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Seychelles,Other,Other,No,Yes,2005,02/11/2005,12/25/2005
+967-AFG-IND-96025,885,Seychelles,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,El Salvador,Other,Other,No,No,2007,02/24/2007,07/05/2007
+519-AFG-UZB-95000,293,Mongolia,AFG,Asia,Southern,Yes,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,Serbia,Other,Other,No,No,2011,04/24/2011,06/05/2011
+701-AFG-UZB-85703,520,Egypt,AFG,Asia,Southern,No,De Facto,President,Rabbani,Rabbani Rabbani,1,Indonesia,Other,Other,Yes,No,2001,07/08/2001,10/08/2001
+609-AFG-PAK-36406,525,Thailand,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,0,Lithuania,Other,Other,No,Yes,1995,05/27/1995,10/30/1995
+382-AFG-UZB-33920,918,Peru,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,0,Saudi Arabia,Other,Other,No,No,2010,04/11/2010,07/06/2010
+483-AFG-IND-59234,1659,Costa Rica,AFG,Asia,Southern,No,De Facto,General Secretary,Rabbani,Rabbani Rabbani,1,Serbia,Other,Other,No,Yes,2009,03/06/2009,05/14/2009
+323-AFG-TJK-65804,1046,New Zealand,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,0,Turkey,Other,Other,No,Yes,2000,08/15/2000,10/08/2000
+172-AFG-UZB-61216,668,Angola,AFG,Asia,Southern,Yes,GS,King,Rabbani,Rabbani Rabbani,1,Germany,Europe,Western,Yes,No,2016,06/05/2016,06/22/2016
+726-AFG-SUN-37036,1857,Serbia,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Czech Republic,Other,Other,No,No,2004,06/10/2004,09/14/2004
+160-AFG-IND-72983,921,Sweden,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,1,Norway,Other,Other,No,No,2019,03/26/2019,10/26/2019
+298-AFG-UZB-80734,993,Chad,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,0,Mongolia,Other,Other,Yes,Yes,2010,03/31/2010,08/11/2010
+599-AFG-IRN-63975,328,Belgium,AFG,Asia,Southern,Yes,GS,Emperor,Mojadedi,Mojadedi Mojadedi,1,Bahamas,Other,Other,Yes,Yes,2013,02/24/2013,03/28/2013
+351-AFG-PAK-75453,1277,Czech Republic,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,0,South Sudan,Other,Other,Yes,No,1994,12/09/1994,12/30/1994
+864-AFG-IRN-37976,1523,Thailand,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Guatemala,Other,Other,No,Yes,1990,07/24/1990,10/19/1990
+275-AFG-UZB-44332,886,Bahamas,AFG,Asia,Southern,No,GS,General Secretary,Najibullah,Najibullah Najibullah,1,Bhutan,Other,Other,No,Yes,2005,03/30/2005,08/30/2005
+572-AFG-TJK-52118,1827,Greece,AFG,Asia,Southern,Yes,S,Prime Minister,Najibullah,Najibullah Najibullah,0,Namibia,Other,Other,Yes,No,1993,05/15/1993,08/26/1993
+562-AFG-IND-34449,1292,New Zealand,AFG,Asia,Southern,Yes,De Facto,General Secretary,Rabbani,Rabbani Rabbani,1,Lesotho,Other,Other,Yes,Yes,2013,04/14/2013,08/02/2013
+720-AFG-IRN-42596,834,Hungary,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,1,Bahamas,Other,Other,No,Yes,2010,06/29/2010,07/15/2010
+416-AFG-IRN-74594,1225,Democratic Republic of the Congo,AFG,Asia,Southern,No,S,Emperor,Karzai,Karzai Karzai,0,Rwanda,Other,Other,No,No,1993,04/22/1993,10/08/1993
+721-AFG-IND-34108,1685,Pakistan,AFG,Asia,Southern,Yes,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Netherlands,Other,Other,Yes,Yes,2010,08/02/2010,10/09/2010
+885-AFG-UZB-55576,567,Cameroon,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,0,Lithuania,Other,Other,Yes,No,2007,04/05/2007,12/16/2007
+221-AFG-PAK-71326,833,South Sudan,AFG,Asia,Southern,No,GS,General Secretary,Karzai,Karzai Karzai,1,Chile,Other,Other,Yes,No,1996,03/25/1996,12/15/1996
+537-AFG-PAK-72243,1077,Malawi,AFG,Asia,Southern,No,GS,Head of State,Najibullah,Najibullah Najibullah,1,Venezuela,Other,Other,Yes,Yes,1993,06/11/1993,09/14/1993
+957-AFG-IRN-99615,1726,Sierra Leone,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Denmark,Other,Other,No,Yes,2014,04/04/2014,11/18/2014
+401-AFG-IRN-37316,572,Egypt,AFG,Asia,Southern,No,S,Emperor,Rabbani,Rabbani Rabbani,1,Niger,Other,Other,Yes,No,2004,02/04/2004,04/23/2004
+292-AFG-SUN-99661,323,Nepal,AFG,Asia,Southern,No,GS,Chancellor,Karzai,Karzai Karzai,0,Thailand,Other,Other,Yes,Yes,2010,03/01/2010,03/04/2010
+586-AFG-UZB-99742,501,New Zealand,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,0,Iceland,Other,Other,Yes,Yes,2017,05/25/2017,11/12/2017
+386-AFG-TJK-40747,1793,Ghana,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Rabbani,Rabbani Rabbani,1,Ghana,Other,Other,Yes,Yes,2008,01/20/2008,10/27/2008
+797-AFG-IND-68705,866,Bahamas,AFG,Asia,Southern,Yes,De Facto,General Secretary,Rabbani,Rabbani Rabbani,1,Portugal,Other,Other,Yes,No,2019,03/09/2019,06/03/2019
+835-AFG-UZB-55058,1555,Mozambique,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Chile,Other,Other,No,Yes,2017,05/24/2017,09/02/2017
+977-AFG-UZB-98820,1348,Bangladesh,AFG,Asia,Southern,Yes,S,Acting President,Najibullah,Najibullah Najibullah,0,Canada,America,North/South,No,No,2003,09/09/2003,12/15/2003
+159-AFG-UZB-47943,1222,Mozambique,AFG,Asia,Southern,No,S,General Secretary,Najibullah,Najibullah Najibullah,1,Honduras,Other,Other,No,Yes,1995,03/06/1995,03/24/1995
+192-AFG-TJK-75731,1975,Costa Rica,AFG,Asia,Southern,Yes,S,King,Karzai,Karzai Karzai,1,Mozambique,Other,Other,No,No,2012,08/02/2012,09/09/2012
+187-AFG-IRN-89688,587,Afghanistan,AFG,Asia,Southern,Yes,GS,Chancellor,Rabbani,Rabbani Rabbani,0,Australia,Other,Other,No,Yes,1998,05/02/1998,06/09/1998
+297-AFG-IND-96260,1235,Ukraine,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Australia,Other,Other,No,Yes,2022,09/25/2022,12/19/2022
+248-AFG-IND-42158,1380,Pakistan,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,0,Croatia,Other,Other,Yes,Yes,2016,01/31/2016,08/28/2016
+157-AFG-PAK-84375,1225,Iran,AFG,Asia,Southern,No,S,President,Rabbani,Rabbani Rabbani,1,Yemen,Other,Other,No,Yes,2021,07/25/2021,08/02/2021
+978-AFG-IRN-48660,1084,Turkmenistan,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,1,Niger,Other,Other,Yes,No,1996,05/14/1996,10/25/1996
+676-AFG-PAK-79879,1351,Jamaica,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Qatar,Other,Other,Yes,No,2004,03/07/2004,04/26/2004
+239-AFG-UZB-46962,1505,Lithuania,AFG,Asia,Southern,Yes,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Jordan,Other,Other,Yes,Yes,2010,08/02/2010,09/08/2010
+232-AFG-SUN-61377,1329,Lesotho,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Czech Republic,Other,Other,No,Yes,2011,02/15/2011,07/12/2011
+929-AFG-UZB-55071,669,Nepal,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,1,Latvia,Other,Other,Yes,No,2020,02/09/2020,03/23/2020
+998-AFG-UZB-88588,1085,Iceland,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Ghana,Other,Other,No,Yes,2003,03/21/2003,09/08/2003
+414-AFG-PAK-44782,1844,Denmark,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,1,Bolivia,Other,Other,Yes,No,2011,04/23/2011,12/02/2011
+989-AFG-SUN-95345,547,Rwanda,AFG,Asia,Southern,Yes,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,Indonesia,Other,Other,No,Yes,2008,03/19/2008,07/14/2008
+364-AFG-IND-66957,687,Denmark,AFG,Asia,Southern,No,S,King,Mojadedi,Mojadedi Mojadedi,1,Angola,Other,Other,Yes,No,1997,04/07/1997,11/07/1997
+805-AFG-SUN-65528,1700,Syria,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,0,Mexico,America,North/South,No,No,2003,09/11/2003,10/07/2003
+125-AFG-SUN-95287,843,Slovakia,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Mauritius,Other,Other,Yes,Yes,2013,05/14/2013,09/07/2013
+210-AFG-IRN-56786,596,Lesotho,AFG,Asia,Southern,Yes,S,President,Rabbani,Rabbani Rabbani,1,Tajikistan,Asia,Southern,No,Yes,2004,07/06/2004,11/07/2004
+722-AFG-TJK-75263,623,Chile,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Armenia,Other,Other,No,No,2004,04/14/2004,08/09/2004
+940-AFG-SUN-54769,1844,Sweden,AFG,Asia,Southern,Yes,S,Acting President,Najibullah,Najibullah Najibullah,0,Belgium,Other,Other,No,Yes,2003,05/09/2003,11/27/2003
+966-AFG-PAK-85145,377,Egypt,AFG,Asia,Southern,No,GS,Chancellor,Rabbani,Rabbani Rabbani,0,Tajikistan,Asia,Southern,Yes,Yes,1996,01/22/1996,09/26/1996
+947-AFG-IRN-99077,1093,Paraguay,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,0,Kazakhstan,Other,Other,No,Yes,1994,07/08/1994,07/11/1994
+844-AFG-UZB-48925,785,Mexico,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Tajikistan,Asia,Southern,No,Yes,2004,05/01/2004,08/19/2004
+778-AFG-IRN-52568,128,Costa Rica,AFG,Asia,Southern,Yes,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Panama,Other,Other,No,No,2000,06/16/2000,10/15/2000
+854-AFG-TJK-89589,674,Cameroon,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,1,Seychelles,Other,Other,No,No,2002,02/05/2002,04/13/2002
+240-AFG-IND-58634,194,Argentina,AFG,Asia,Southern,No,GS,Head of State,Mojadedi,Mojadedi Mojadedi,0,Germany,Europe,Western,No,Yes,2011,06/15/2011,06/23/2011
+738-AFG-IRN-49611,1521,Belarus,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,0,Ireland,Other,Other,Yes,No,2003,02/13/2003,04/21/2003
+735-AFG-IRN-51485,1728,Switzerland,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Switzerland,Other,Other,Yes,No,2005,07/20/2005,10/11/2005
+205-AFG-PAK-91285,121,Qatar,AFG,Asia,Southern,No,GS,Emperor,Karzai,Karzai Karzai,1,Honduras,Other,Other,No,No,2007,04/09/2007,08/22/2007
+700-AFG-PAK-62409,689,China,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Ireland,Other,Other,Yes,No,2009,04/17/2009,10/22/2009
+536-AFG-IRN-58191,310,Chile,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,1,Bhutan,Other,Other,No,No,1999,04/13/1999,09/03/1999
+295-AFG-UZB-59703,112,Mozambique,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Argentina,America,North/South,No,No,2013,08/14/2013,12/06/2013
+621-AFG-SUN-68567,1123,Zimbabwe,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,China,Other,Other,Yes,No,2022,05/23/2022,08/13/2022
+299-AFG-UZB-54685,1704,Pakistan,AFG,Asia,Southern,Yes,GS,President,Rabbani,Rabbani Rabbani,0,Bahrain,Other,Other,Yes,Yes,2009,03/13/2009,10/19/2009
+564-AFG-IRN-69401,529,Zambia,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Zimbabwe,Other,Other,Yes,Yes,2003,01/01/2003,08/31/2003
+251-AFG-UZB-99520,477,Spain,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,0,Colombia,Other,Other,Yes,No,2006,04/18/2006,10/24/2006
+380-AFG-UZB-38636,1471,Haiti,AFG,Asia,Southern,Yes,S,Prime Minister,Karzai,Karzai Karzai,0,Spain,Europe,Western,Yes,Yes,1999,04/09/1999,12/29/1999
+874-AFG-IND-58909,1864,Zimbabwe,AFG,Asia,Southern,Yes,GS,Acting President,Najibullah,Najibullah Najibullah,1,Kuwait,Other,Other,Yes,No,2010,01/09/2010,09/25/2010
+228-AFG-UZB-86310,164,Botswana,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,0,Zambia,Other,Other,No,Yes,2015,09/03/2015,09/12/2015
+334-AFG-SUN-77247,1866,Kuwait,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Turkmenistan,Other,Other,Yes,No,2005,01/10/2005,02/17/2005
+968-AFG-IRN-80807,1223,Argentina,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Yemen,Other,Other,No,No,2000,09/06/2000,11/28/2000
+148-AFG-IRN-90365,1256,Singapore,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,1,Spain,Europe,Western,Yes,No,1998,01/22/1998,09/15/1998
+346-AFG-IND-62907,1151,Bhutan,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,Rwanda,Other,Other,No,Yes,2008,07/01/2008,09/16/2008
+562-AFG-IRN-84944,1176,Barbados,AFG,Asia,Southern,Yes,De Facto,Acting President,Rabbani,Rabbani Rabbani,1,Afghanistan,Asia,Southern,Yes,Yes,2003,03/04/2003,09/23/2003
+995-AFG-SUN-51105,1233,Bhutan,AFG,Asia,Southern,No,De Facto,King,Rabbani,Rabbani Rabbani,0,New Zealand,Other,Other,No,Yes,1996,08/30/1996,11/21/1996
+215-AFG-SUN-37820,911,Lebanon,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,1,Brazil,America,North/South,Yes,Yes,1990,04/15/1990,07/24/1990
+806-AFG-UZB-36874,574,Finland,AFG,Asia,Southern,Yes,S,Emperor,Karzai,Karzai Karzai,0,Kazakhstan,Other,Other,Yes,No,2016,04/28/2016,07/10/2016
+604-AFG-TJK-57271,1468,Bangladesh,AFG,Asia,Southern,No,De Facto,Head of State,Karzai,Karzai Karzai,0,Nicaragua,Other,Other,Yes,No,1995,03/31/1995,09/06/1995
+315-AFG-IND-72683,327,Bangladesh,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,0,Philippines,Other,Other,No,Yes,2019,06/05/2019,11/06/2019
+916-AFG-PAK-49002,1580,Philippines,AFG,Asia,Southern,No,S,Acting President,Karzai,Karzai Karzai,0,Dominican Republic,Other,Other,Yes,Yes,2019,10/10/2019,11/04/2019
+355-AFG-TJK-73704,1939,Nigeria,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Botswana,Other,Other,No,No,2020,10/29/2020,11/01/2020
+406-AFG-SUN-63269,698,Congo,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,0,Netherlands,Other,Other,No,Yes,2013,01/24/2013,02/21/2013
+858-AFG-IND-35626,691,Moldova,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,1,Ukraine,Other,Other,No,Yes,2004,01/03/2004,04/03/2004
+992-AFG-PAK-42103,1984,Italy,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Uganda,Other,Other,Yes,Yes,2007,05/16/2007,08/21/2007
+857-AFG-SUN-66314,638,Democratic Republic of the Congo,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Afghanistan,Asia,Southern,No,No,2010,04/05/2010,10/20/2010
+740-AFG-UZB-50777,1930,Senegal,AFG,Asia,Southern,No,De Facto,Acting President,Karzai,Karzai Karzai,1,Cameroon,Other,Other,No,No,2000,05/01/2000,10/13/2000
+298-AFG-PAK-85000,323,United States,AFG,Asia,Southern,No,S,President,Rabbani,Rabbani Rabbani,0,Lesotho,Other,Other,Yes,Yes,1997,03/05/1997,12/25/1997
+202-AFG-IND-43898,586,Lithuania,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,0,Turkey,Other,Other,Yes,No,2005,06/28/2005,12/20/2005
+707-AFG-IRN-35347,1885,Jamaica,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Australia,Other,Other,Yes,Yes,2023,04/08/2023,07/26/2023
+747-AFG-IND-95370,1691,Dominican Republic,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,0,Zimbabwe,Other,Other,No,No,1994,06/11/1994,06/21/1994
+266-AFG-PAK-56223,1813,Ivory Coast,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,0,Honduras,Other,Other,No,No,2023,07/19/2023,12/06/2023
+660-AFG-TJK-46113,166,Angola,AFG,Asia,Southern,Yes,S,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Paraguay,Other,Other,Yes,No,2020,10/26/2020,10/30/2020
+352-AFG-TJK-73022,406,Sudan,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,0,South Sudan,Other,Other,Yes,No,1999,01/02/1999,05/03/1999
+358-AFG-PAK-58255,1068,Tajikistan,AFG,Asia,Southern,No,De Facto,General Secretary,Rabbani,Rabbani Rabbani,1,Senegal,Other,Other,No,No,2016,08/07/2016,10/21/2016
+418-AFG-IRN-97595,1697,Thailand,AFG,Asia,Southern,No,S,Head of State,Najibullah,Najibullah Najibullah,1,Singapore,Other,Other,No,No,2020,05/14/2020,12/11/2020
+584-AFG-SUN-68949,1729,Seychelles,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,0,Congo,Other,Other,Yes,Yes,2004,02/28/2004,10/21/2004
+127-AFG-SUN-66233,1787,Congo,AFG,Asia,Southern,Yes,GS,King,Karzai,Karzai Karzai,0,Argentina,America,North/South,Yes,No,2002,01/11/2002,08/26/2002
+839-AFG-UZB-46863,1851,Egypt,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Jamaica,Other,Other,Yes,Yes,2009,09/29/2009,11/17/2009
+753-AFG-TJK-72304,175,Indonesia,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Tanzania,Other,Other,Yes,Yes,2007,07/14/2007,11/28/2007
+605-AFG-IRN-54160,1588,Chile,AFG,Asia,Southern,No,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Slovakia,Other,Other,No,No,2016,05/05/2016,07/20/2016
+306-AFG-IRN-40528,1671,Ecuador,AFG,Asia,Southern,No,GS,President,Mojadedi,Mojadedi Mojadedi,1,Tanzania,Other,Other,Yes,No,2003,07/24/2003,10/06/2003
+477-AFG-IND-87863,1548,Niger,AFG,Asia,Southern,No,GS,Chancellor,Karzai,Karzai Karzai,1,Japan,Other,Other,Yes,Yes,1999,02/09/1999,08/29/1999
+540-AFG-PAK-94945,636,Estonia,AFG,Asia,Southern,No,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Seychelles,Other,Other,Yes,No,2012,07/09/2012,10/19/2012
+606-AFG-IND-97965,240,South Sudan,AFG,Asia,Southern,Yes,S,General Secretary,Karzai,Karzai Karzai,1,Cuba,Other,Other,Yes,No,1999,01/20/1999,12/01/1999
+834-AFG-IRN-93182,1899,Sweden,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Australia,Other,Other,No,Yes,2005,01/01/2005,01/13/2005
+869-AFG-IRN-69378,622,Mexico,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,0,Moldova,Other,Other,Yes,No,2023,08/26/2023,12/01/2023
+472-AFG-IRN-61903,746,Mozambique,AFG,Asia,Southern,No,De Facto,President,Rabbani,Rabbani Rabbani,1,Eswatini,Other,Other,Yes,Yes,2013,07/14/2013,09/19/2013
+328-AFG-PAK-40002,1811,Malaysia,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,Namibia,Other,Other,No,Yes,1993,05/17/1993,12/07/1993
+168-AFG-SUN-89179,385,Ghana,AFG,Asia,Southern,No,De Facto,Acting President,Najibullah,Najibullah Najibullah,1,Mozambique,Other,Other,Yes,Yes,1990,05/22/1990,05/25/1990
+933-AFG-SUN-34424,1506,Chile,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,0,Kenya,Africa,Northern/Southern,No,No,2005,03/20/2005,08/09/2005
+771-AFG-UZB-92004,1810,Serbia,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,0,Tajikistan,Asia,Southern,Yes,Yes,2010,09/14/2010,11/02/2010
+894-AFG-TJK-56607,1859,Barbados,AFG,Asia,Southern,No,De Facto,President,Rabbani,Rabbani Rabbani,0,Panama,Other,Other,Yes,Yes,2005,04/28/2005,12/10/2005
+718-AFG-IRN-70579,1899,Ireland,AFG,Asia,Southern,Yes,S,General Secretary,Karzai,Karzai Karzai,0,Sierra Leone,Other,Other,No,No,2000,04/14/2000,06/12/2000
+481-AFG-IND-36273,1919,Turkmenistan,AFG,Asia,Southern,Yes,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Tajikistan,Asia,Southern,No,No,2010,03/11/2010,05/26/2010
+990-AFG-IRN-38033,1390,Italy,AFG,Asia,Southern,No,S,Acting President,Rabbani,Rabbani Rabbani,1,Philippines,Other,Other,Yes,No,1994,02/10/1994,07/15/1994
+570-AFG-SUN-66892,658,Kazakhstan,AFG,Asia,Southern,Yes,S,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Peru,Other,Other,No,No,2007,01/05/2007,03/01/2007
+877-AFG-UZB-42730,1046,France,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Finland,Other,Other,No,No,2000,01/04/2000,09/16/2000
+533-AFG-IRN-89486,777,Slovenia,AFG,Asia,Southern,Yes,S,Emperor,Mojadedi,Mojadedi Mojadedi,0,United States,America,North/South,No,No,1990,04/23/1990,07/23/1990
+554-AFG-TJK-42580,967,Yemen,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Dominican Republic,Other,Other,No,No,2023,01/30/2023,10/28/2023
+323-AFG-PAK-87983,1872,Namibia,AFG,Asia,Southern,Yes,De Facto,General Secretary,Najibullah,Najibullah Najibullah,1,Democratic Republic of the Congo,Other,Other,Yes,No,1990,02/14/1990,07/14/1990
+370-AFG-PAK-64997,176,Slovakia,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,0,Zambia,Other,Other,Yes,Yes,1992,02/15/1992,10/23/1992
+674-AFG-IRN-62068,183,Niger,AFG,Asia,Southern,Yes,GS,Acting President,Najibullah,Najibullah Najibullah,0,United States,America,North/South,No,Yes,1993,06/09/1993,08/26/1993
+319-AFG-PAK-44543,1281,Eswatini,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,0,Guatemala,Other,Other,No,Yes,2013,07/16/2013,10/26/2013
+747-AFG-IND-62685,1688,Zambia,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,1,Austria,Other,Other,No,Yes,2001,06/01/2001,06/30/2001
+107-AFG-IND-41111,672,Sierra Leone,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,1,Serbia,Other,Other,No,No,1991,09/23/1991,12/31/1991
+811-AFG-SUN-85750,1436,Uruguay,AFG,Asia,Southern,No,GS,Chancellor,Rabbani,Rabbani Rabbani,0,Belarus,Other,Other,Yes,Yes,2022,06/07/2022,08/24/2022
+745-AFG-IND-61384,973,Bhutan,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Bahrain,Other,Other,Yes,Yes,2011,02/02/2011,10/18/2011
+531-AFG-UZB-55591,456,France,AFG,Asia,Southern,Yes,De Facto,General Secretary,Najibullah,Najibullah Najibullah,0,Mozambique,Other,Other,Yes,No,1993,06/15/1993,09/26/1993
+817-AFG-IND-49932,1575,Mali,AFG,Asia,Southern,Yes,De Facto,Head of State,Karzai,Karzai Karzai,1,Kyrgyzstan,Other,Other,Yes,Yes,2019,06/20/2019,10/22/2019
+137-AFG-PAK-95166,663,Moldova,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Kuwait,Other,Other,No,No,1998,03/05/1998,11/21/1998
+478-AFG-UZB-87356,449,Indonesia,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Romania,Other,Other,No,No,1990,09/18/1990,12/10/1990
+667-AFG-PAK-49381,1485,Hungary,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Lebanon,Other,Other,No,No,2012,01/07/2012,09/15/2012
+192-AFG-TJK-88356,1019,Haiti,AFG,Asia,Southern,No,S,Head of State,Najibullah,Najibullah Najibullah,0,Cameroon,Other,Other,No,Yes,2009,09/16/2009,10/10/2009
+681-AFG-IRN-68803,1503,Kuwait,AFG,Asia,Southern,Yes,GS,Acting President,Najibullah,Najibullah Najibullah,1,Ivory Coast,Other,Other,Yes,No,2017,02/02/2017,06/18/2017
+311-AFG-IND-47226,105,Estonia,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,0,United States,America,North/South,Yes,Yes,2019,04/08/2019,05/15/2019
+621-AFG-UZB-78182,1515,Iceland,AFG,Asia,Southern,No,De Facto,King,Rabbani,Rabbani Rabbani,1,Mongolia,Other,Other,No,Yes,1998,10/11/1998,10/24/1998
+162-AFG-UZB-93721,730,Peru,AFG,Asia,Southern,Yes,De Facto,Acting President,Karzai,Karzai Karzai,1,Azerbaijan,Other,Other,Yes,Yes,2011,01/11/2011,02/20/2011
+948-AFG-PAK-69364,123,Yemen,AFG,Asia,Southern,Yes,GS,Emperor,Mojadedi,Mojadedi Mojadedi,1,Czech Republic,Other,Other,Yes,No,2001,06/18/2001,07/24/2001
+195-AFG-TJK-33829,367,Democratic Republic of the Congo,AFG,Asia,Southern,No,S,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Bhutan,Other,Other,No,No,2014,11/08/2014,11/14/2014
+866-AFG-PAK-85860,790,Russia,AFG,Asia,Southern,No,De Facto,President,Karzai,Karzai Karzai,1,Yemen,Other,Other,Yes,Yes,2011,04/21/2011,09/27/2011
+658-AFG-SUN-80400,651,Niger,AFG,Asia,Southern,Yes,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Serbia,Other,Other,No,No,2013,09/04/2013,12/31/2013
+308-AFG-TJK-45399,1522,Kenya,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,0,Mexico,America,North/South,No,Yes,2018,07/13/2018,10/14/2018
+843-AFG-IRN-89247,765,Azerbaijan,AFG,Asia,Southern,Yes,S,Acting President,Mojadedi,Mojadedi Mojadedi,1,India,Asia,Southern,Yes,No,2015,06/16/2015,10/19/2015
+551-AFG-IRN-67580,1754,Uzbekistan,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,United States,America,North/South,Yes,No,2005,03/02/2005,03/31/2005
+996-AFG-IRN-34520,1269,Philippines,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,0,Ghana,Other,Other,Yes,Yes,2022,03/26/2022,11/08/2022
+378-AFG-UZB-85949,1250,Kuwait,AFG,Asia,Southern,No,S,President,Mojadedi,Mojadedi Mojadedi,1,Iceland,Other,Other,Yes,No,2004,03/05/2004,04/15/2004
+722-AFG-UZB-47545,981,Bulgaria,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Central African Republic,Other,Other,Yes,Yes,2017,01/07/2017,01/31/2017
+768-AFG-TJK-88357,1670,Egypt,AFG,Asia,Southern,No,S,President,Karzai,Karzai Karzai,0,Tajikistan,Asia,Southern,Yes,No,2008,09/03/2008,10/01/2008
+774-AFG-IND-35192,481,Vietnam,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,0,Eswatini,Other,Other,Yes,No,2019,09/20/2019,12/28/2019
+714-AFG-TJK-99541,346,Kazakhstan,AFG,Asia,Southern,No,De Facto,King,Rabbani,Rabbani Rabbani,1,Cuba,Other,Other,Yes,Yes,2019,03/02/2019,11/21/2019
+521-AFG-PAK-46696,289,Nepal,AFG,Asia,Southern,Yes,De Facto,Head of State,Karzai,Karzai Karzai,0,Spain,Europe,Western,No,No,2004,03/16/2004,07/12/2004
+600-AFG-SUN-73034,340,Turkey,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Chile,Other,Other,Yes,Yes,2022,08/30/2022,11/08/2022
+518-AFG-IRN-70089,1701,Tanzania,AFG,Asia,Southern,No,GS,President,Mojadedi,Mojadedi Mojadedi,1,Nicaragua,Other,Other,No,Yes,2012,06/20/2012,09/01/2012
+203-AFG-UZB-56234,452,Lebanon,AFG,Asia,Southern,No,GS,President,Karzai,Karzai Karzai,1,Armenia,Other,Other,Yes,No,2021,04/24/2021,05/26/2021
+929-AFG-UZB-63535,243,Trinidad and Tobago,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,1,Ghana,Other,Other,Yes,Yes,1993,05/01/1993,05/02/1993
+573-AFG-IRN-54640,874,Ukraine,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,0,Philippines,Other,Other,No,No,2002,07/08/2002,10/09/2002
+678-AFG-SUN-61421,1800,Slovakia,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,Chile,Other,Other,Yes,Yes,2021,01/25/2021,05/07/2021
+662-AFG-UZB-43367,212,Armenia,AFG,Asia,Southern,Yes,De Facto,Head of State,Rabbani,Rabbani Rabbani,1,Chile,Other,Other,No,Yes,2006,07/12/2006,07/15/2006
+360-AFG-IRN-78997,1465,Rwanda,AFG,Asia,Southern,No,GS,Acting President,Karzai,Karzai Karzai,0,Uruguay,Other,Other,No,Yes,2022,08/23/2022,09/03/2022
+571-AFG-SUN-42019,1603,New Zealand,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Brazil,America,North/South,No,Yes,2000,08/10/2000,09/11/2000
+252-AFG-IRN-38311,1672,Angola,AFG,Asia,Southern,No,S,Acting President,Karzai,Karzai Karzai,1,Croatia,Other,Other,No,No,2010,10/17/2010,10/18/2010
+722-AFG-IND-38572,1464,Cuba,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,0,Russia,Other,Other,No,Yes,2022,06/15/2022,08/09/2022
+120-AFG-TJK-48987,1124,Afghanistan,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,1,Kenya,Africa,Northern/Southern,Yes,No,1993,08/19/1993,09/22/1993
+985-AFG-SUN-50506,1570,Armenia,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,0,Barbados,Other,Other,No,No,1997,05/12/1997,10/19/1997
+159-AFG-IND-56333,1980,Nigeria,AFG,Asia,Southern,No,De Facto,Chancellor,Rabbani,Rabbani Rabbani,0,France,Europe,Western,No,Yes,2016,03/01/2016,08/20/2016
+287-AFG-TJK-94001,483,Bhutan,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,1,Canada,America,North/South,No,Yes,2015,04/08/2015,12/26/2015
+748-AFG-UZB-63393,195,Chad,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,0,Tajikistan,Asia,Southern,Yes,Yes,2020,06/20/2020,09/24/2020
+448-AFG-TJK-77835,1627,Czech Republic,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,0,Austria,Other,Other,Yes,No,2003,01/09/2003,09/24/2003
+206-AFG-SUN-59767,861,Canada,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,0,South Korea,Other,Other,Yes,Yes,2002,09/25/2002,11/09/2002
+697-AFG-PAK-61800,153,Kyrgyzstan,AFG,Asia,Southern,No,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,1,China,Other,Other,No,No,2000,11/06/2000,12/28/2000
+149-AFG-SUN-39274,1008,Estonia,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,0,Costa Rica,Other,Other,Yes,No,2014,01/29/2014,02/01/2014
+654-AFG-PAK-66163,1925,Namibia,AFG,Asia,Southern,Yes,GS,Acting President,Najibullah,Najibullah Najibullah,0,Malaysia,Other,Other,Yes,Yes,2002,02/15/2002,02/22/2002
+850-AFG-SUN-86321,1003,Cameroon,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,0,Qatar,Other,Other,No,No,1996,05/05/1996,05/10/1996
+468-AFG-SUN-55558,376,Iraq,AFG,Asia,Southern,Yes,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Mexico,America,North/South,No,No,2016,06/16/2016,12/22/2016
+283-AFG-TJK-36880,1648,United Arab Emirates,AFG,Asia,Southern,No,S,Prime Minister,Karzai,Karzai Karzai,0,Latvia,Other,Other,Yes,Yes,2020,02/23/2020,07/25/2020
+909-AFG-SUN-93459,1487,Uruguay,AFG,Asia,Southern,No,S,Prime Minister,Karzai,Karzai Karzai,1,Spain,Europe,Western,No,No,2006,05/13/2006,09/12/2006
+723-AFG-IRN-43556,223,Costa Rica,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,1,Argentina,America,North/South,Yes,No,1990,03/10/1990,03/19/1990
+646-AFG-UZB-86204,1166,Chile,AFG,Asia,Southern,Yes,S,King,Rabbani,Rabbani Rabbani,0,Mali,Other,Other,Yes,Yes,2006,05/28/2006,10/13/2006
+902-AFG-UZB-65396,119,Kazakhstan,AFG,Asia,Southern,Yes,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Spain,Europe,Western,No,No,2004,05/13/2004,06/18/2004
+101-AFG-IRN-60192,886,Czech Republic,AFG,Asia,Southern,Yes,De Facto,King,Karzai,Karzai Karzai,0,Cameroon,Other,Other,No,No,2003,02/11/2003,12/23/2003
+517-AFG-SUN-58064,732,Sri Lanka,AFG,Asia,Southern,No,De Facto,Acting President,Rabbani,Rabbani Rabbani,0,Bahrain,Other,Other,No,Yes,2009,04/16/2009,12/02/2009
+129-AFG-TJK-74212,1269,South Korea,AFG,Asia,Southern,No,S,Acting President,Karzai,Karzai Karzai,0,Niger,Other,Other,No,Yes,1999,01/08/1999,09/16/1999
+164-AFG-PAK-42022,749,Kazakhstan,AFG,Asia,Southern,No,De Facto,Emperor,Najibullah,Najibullah Najibullah,0,Angola,Other,Other,Yes,Yes,1992,01/01/1992,06/21/1992
+642-AFG-IND-67161,1657,Switzerland,AFG,Asia,Southern,Yes,GS,Head of State,Mojadedi,Mojadedi Mojadedi,1,United States,America,North/South,No,Yes,2019,02/16/2019,08/07/2019
+302-AFG-IND-62333,711,Portugal,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Cuba,Other,Other,Yes,Yes,1998,02/24/1998,09/14/1998
+842-AFG-UZB-81493,1914,Iran,AFG,Asia,Southern,No,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Japan,Other,Other,Yes,No,2008,05/19/2008,12/03/2008
+174-AFG-PAK-54127,118,Uganda,AFG,Asia,Southern,Yes,GS,Head of State,Karzai,Karzai Karzai,0,Seychelles,Other,Other,No,Yes,1999,04/04/1999,06/15/1999
+313-AFG-UZB-90083,1451,Romania,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,1,Bhutan,Other,Other,Yes,Yes,2019,06/11/2019,06/13/2019
+845-AFG-IND-61767,613,Guatemala,AFG,Asia,Southern,No,S,President,Mojadedi,Mojadedi Mojadedi,1,Bahrain,Other,Other,Yes,No,2006,10/29/2006,12/31/2006
+305-AFG-SUN-95591,1215,Bangladesh,AFG,Asia,Southern,Yes,GS,Head of State,Karzai,Karzai Karzai,0,Democratic Republic of the Congo,Other,Other,No,No,1998,10/28/1998,11/03/1998
+133-AFG-SUN-98006,1810,Argentina,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,1,Belarus,Other,Other,No,No,2004,08/06/2004,12/03/2004
+798-AFG-UZB-77158,1346,Ivory Coast,AFG,Asia,Southern,No,S,Emperor,Rabbani,Rabbani Rabbani,1,South Korea,Other,Other,Yes,No,1996,12/16/1996,12/20/1996
+305-AFG-UZB-35334,1112,Bolivia,AFG,Asia,Southern,No,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Central African Republic,Other,Other,Yes,Yes,2003,04/12/2003,12/01/2003
+893-AFG-UZB-57240,210,Belgium,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,1,Dominican Republic,Other,Other,No,No,1992,08/03/1992,10/23/1992
+513-AFG-UZB-38471,833,Kyrgyzstan,AFG,Asia,Southern,Yes,S,Emperor,Karzai,Karzai Karzai,0,Thailand,Other,Other,Yes,No,2000,09/30/2000,12/31/2000
+685-AFG-TJK-87023,1265,Vietnam,AFG,Asia,Southern,No,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Philippines,Other,Other,Yes,No,2011,02/11/2011,04/04/2011
+822-AFG-IND-43888,1791,Croatia,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Vietnam,Other,Other,Yes,Yes,2003,02/09/2003,03/24/2003
+322-AFG-UZB-92592,113,Bahamas,AFG,Asia,Southern,Yes,De Facto,Emperor,Najibullah,Najibullah Najibullah,0,Syria,Other,Other,Yes,Yes,2018,02/08/2018,12/15/2018
+597-AFG-UZB-51631,1822,Bahamas,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,0,Venezuela,Other,Other,Yes,No,1991,12/09/1991,12/30/1991
+414-AFG-IND-72862,1388,Pakistan,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Najibullah,Najibullah Najibullah,0,Honduras,Other,Other,No,No,2001,02/19/2001,08/24/2001
+913-AFG-UZB-65651,1248,Serbia,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Namibia,Other,Other,Yes,No,2017,03/11/2017,06/29/2017
+797-AFG-SUN-80307,384,Mongolia,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Botswana,Other,Other,Yes,No,2020,03/09/2020,05/13/2020
+845-AFG-PAK-73939,958,China,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Sierra Leone,Other,Other,Yes,Yes,2006,01/26/2006,02/15/2006
+578-AFG-TJK-58779,1270,Ghana,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Mexico,America,North/South,Yes,No,2006,09/03/2006,12/03/2006
+797-AFG-SUN-36800,1999,Serbia,AFG,Asia,Southern,No,S,Head of State,Rabbani,Rabbani Rabbani,1,Namibia,Other,Other,Yes,Yes,2005,05/25/2005,11/08/2005
+608-AFG-SUN-88677,1118,Nicaragua,AFG,Asia,Southern,No,S,King,Mojadedi,Mojadedi Mojadedi,0,Romania,Other,Other,Yes,No,2005,04/14/2005,06/25/2005
+144-AFG-IRN-88655,1573,Bahrain,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,0,Italy,Europe,Western,Yes,No,2009,03/18/2009,10/30/2009
+443-AFG-PAK-72493,945,Zimbabwe,AFG,Asia,Southern,No,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Kazakhstan,Other,Other,Yes,No,2021,08/16/2021,10/06/2021
+435-AFG-UZB-40155,1233,Paraguay,AFG,Asia,Southern,Yes,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Russia,Other,Other,No,No,2013,09/20/2013,10/06/2013
+564-AFG-TJK-42425,1868,Belarus,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,0,Azerbaijan,Other,Other,Yes,No,2012,09/22/2012,10/07/2012
+427-AFG-IND-78937,1069,Lithuania,AFG,Asia,Southern,No,GS,Emperor,Karzai,Karzai Karzai,0,Iraq,Other,Other,No,No,2001,02/11/2001,12/14/2001
+490-AFG-IND-72584,640,Niger,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Denmark,Other,Other,No,No,2013,02/22/2013,12/28/2013
+858-AFG-PAK-50598,1308,Angola,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,1,Bolivia,Other,Other,No,No,2016,07/29/2016,11/27/2016
+190-AFG-SUN-69310,1799,Bhutan,AFG,Asia,Southern,No,De Facto,King,Karzai,Karzai Karzai,1,Armenia,Other,Other,Yes,Yes,2010,06/13/2010,12/15/2010
+258-AFG-IND-73752,465,Lithuania,AFG,Asia,Southern,Yes,S,Prime Minister,Najibullah,Najibullah Najibullah,1,Angola,Other,Other,Yes,No,2020,06/11/2020,07/23/2020
+995-AFG-IRN-57729,976,Guatemala,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,0,Syria,Other,Other,Yes,Yes,1998,01/20/1998,09/09/1998
+783-AFG-SUN-86821,772,El Salvador,AFG,Asia,Southern,Yes,De Facto,King,Karzai,Karzai Karzai,1,Trinidad and Tobago,Other,Other,No,No,2023,05/25/2023,12/06/2023
+654-AFG-PAK-59971,1061,Niger,AFG,Asia,Southern,Yes,GS,Head of State,Karzai,Karzai Karzai,0,Finland,Other,Other,Yes,Yes,2004,06/07/2004,12/24/2004
+290-AFG-IND-49398,1738,Russia,AFG,Asia,Southern,Yes,S,Emperor,Rabbani,Rabbani Rabbani,1,Cameroon,Other,Other,No,No,2010,01/02/2010,08/17/2010
+875-AFG-TJK-59279,1636,El Salvador,AFG,Asia,Southern,Yes,S,President,Rabbani,Rabbani Rabbani,1,Senegal,Other,Other,Yes,Yes,2009,10/13/2009,10/28/2009
+285-AFG-PAK-97079,1236,Belgium,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Estonia,Other,Other,Yes,Yes,2004,08/05/2004,11/02/2004
+159-AFG-SUN-51968,657,Thailand,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Guatemala,Other,Other,No,Yes,1994,05/09/1994,11/15/1994
+619-AFG-IND-49930,960,Honduras,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Barbados,Other,Other,Yes,No,2000,08/20/2000,08/22/2000
+183-AFG-UZB-50837,1138,Chad,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,1,Ivory Coast,Other,Other,Yes,Yes,1998,05/17/1998,06/29/1998
+363-AFG-TJK-33914,322,Bhutan,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,1,Mexico,America,North/South,Yes,No,2023,06/03/2023,07/05/2023
+372-AFG-PAK-35901,867,Namibia,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Tanzania,Other,Other,No,Yes,1995,03/19/1995,10/17/1995
+732-AFG-TJK-40265,1021,Afghanistan,AFG,Asia,Southern,No,GS,President,Karzai,Karzai Karzai,1,Afghanistan,Asia,Southern,Yes,Yes,2009,02/15/2009,10/03/2009
+923-AFG-PAK-77010,1352,Turkmenistan,AFG,Asia,Southern,Yes,De Facto,General Secretary,Najibullah,Najibullah Najibullah,0,Mexico,America,North/South,No,Yes,1992,06/25/1992,10/05/1992
+486-AFG-IND-69434,1886,Panama,AFG,Asia,Southern,No,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,New Zealand,Other,Other,Yes,No,2002,08/02/2002,10/28/2002
+357-AFG-TJK-72705,1932,Iran,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,0,Eswatini,Other,Other,No,Yes,2005,07/14/2005,12/16/2005
+959-AFG-IRN-67502,1153,Kazakhstan,AFG,Asia,Southern,No,GS,Emperor,Najibullah,Najibullah Najibullah,1,Sudan,Other,Other,Yes,Yes,2007,04/02/2007,09/06/2007
+287-AFG-TJK-60690,1603,Norway,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,0,Nicaragua,Other,Other,Yes,Yes,2023,02/27/2023,03/27/2023
+333-AFG-UZB-33554,1731,Vietnam,AFG,Asia,Southern,Yes,GS,President,Karzai,Karzai Karzai,0,Barbados,Other,Other,No,No,1999,06/05/1999,12/04/1999
+637-AFG-TJK-49828,987,Dominican Republic,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,0,Italy,Europe,Western,No,Yes,2023,02/12/2023,08/23/2023
+467-AFG-SUN-72691,1310,New Zealand,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,1,Bahamas,Other,Other,Yes,No,1994,05/22/1994,08/04/1994
+680-AFG-TJK-97705,920,Bahrain,AFG,Asia,Southern,No,GS,Head of State,Rabbani,Rabbani Rabbani,1,Kyrgyzstan,Other,Other,No,No,1996,03/09/1996,04/11/1996
+478-AFG-SUN-98835,527,Greece,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Austria,Other,Other,No,Yes,2020,06/14/2020,11/20/2020
+383-AFG-UZB-33745,1769,Kazakhstan,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,0,Singapore,Other,Other,Yes,No,1993,04/11/1993,09/30/1993
+383-AFG-SUN-84962,1575,Bhutan,AFG,Asia,Southern,Yes,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Russia,Other,Other,No,Yes,1997,01/16/1997,08/03/1997
+234-AFG-SUN-75507,696,Haiti,AFG,Asia,Southern,No,De Facto,General Secretary,Najibullah,Najibullah Najibullah,1,Lesotho,Other,Other,No,Yes,1998,05/28/1998,08/20/1998
+595-AFG-IND-65244,366,Sierra Leone,AFG,Asia,Southern,Yes,S,President,Mojadedi,Mojadedi Mojadedi,0,Saudi Arabia,Other,Other,No,No,2020,05/28/2020,10/29/2020
+312-AFG-IRN-43448,1971,Germany,AFG,Asia,Southern,No,S,President,Rabbani,Rabbani Rabbani,0,Kenya,Africa,Northern/Southern,Yes,Yes,2011,05/18/2011,12/27/2011
+835-AFG-IRN-46790,861,Democratic Republic of the Congo,AFG,Asia,Southern,Yes,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Zambia,Other,Other,No,Yes,2012,02/12/2012,07/03/2012
+787-AFG-IND-66292,217,Vietnam,AFG,Asia,Southern,No,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,Uganda,Other,Other,Yes,No,1998,01/06/1998,08/29/1998
+184-AFG-PAK-74555,1847,France,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Ukraine,Other,Other,Yes,Yes,1998,02/15/1998,03/18/1998
+270-AFG-IRN-79920,1304,Armenia,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Barbados,Other,Other,No,No,2011,02/12/2011,12/09/2011
+953-AFG-UZB-61828,262,Panama,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,1,Costa Rica,Other,Other,Yes,No,2006,01/04/2006,04/06/2006
+329-AFG-SUN-41003,808,Singapore,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,1,Netherlands,Other,Other,No,Yes,1992,04/23/1992,05/01/1992
+165-AFG-PAK-39699,844,Spain,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Thailand,Other,Other,Yes,No,2012,05/12/2012,09/14/2012
+810-AFG-IRN-46278,1274,China,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,1,United Arab Emirates,Other,Other,Yes,No,2003,07/04/2003,12/22/2003
+831-AFG-IRN-45988,191,India,AFG,Asia,Southern,Yes,GS,Chancellor,Karzai,Karzai Karzai,1,Chad,Other,Other,No,No,1996,01/29/1996,07/08/1996
+376-AFG-PAK-58330,1510,Uganda,AFG,Asia,Southern,Yes,S,Chancellor,Karzai,Karzai Karzai,0,Moldova,Other,Other,No,No,2007,08/19/2007,09/27/2007
+276-AFG-IND-99038,1687,Costa Rica,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,1,Central African Republic,Other,Other,No,Yes,2010,07/11/2010,10/06/2010
+865-AFG-UZB-81597,233,Brazil,AFG,Asia,Southern,No,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Germany,Europe,Western,No,No,1997,03/01/1997,05/28/1997
+515-AFG-TJK-88616,986,Jamaica,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Canada,America,North/South,Yes,No,2004,04/15/2004,10/11/2004
+930-AFG-SUN-40965,607,Finland,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,1,Namibia,Other,Other,Yes,No,2006,01/05/2006,09/04/2006
+731-AFG-TJK-68534,492,Zambia,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,1,Kenya,Africa,Northern/Southern,Yes,No,2022,04/15/2022,12/12/2022
+581-AFG-IRN-68152,798,Ivory Coast,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,Mongolia,Other,Other,No,No,2015,01/13/2015,06/21/2015
+250-AFG-SUN-78008,969,Nigeria,AFG,Asia,Southern,Yes,GS,General Secretary,Najibullah,Najibullah Najibullah,1,Portugal,Other,Other,No,Yes,2007,05/30/2007,09/27/2007
+730-AFG-UZB-69637,407,Chile,AFG,Asia,Southern,Yes,S,Chancellor,Karzai,Karzai Karzai,1,Mongolia,Other,Other,No,Yes,2020,07/16/2020,08/24/2020
+171-AFG-TJK-88595,444,Bahamas,AFG,Asia,Southern,No,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,United States,America,North/South,No,Yes,2001,05/21/2001,12/05/2001
+543-AFG-IRN-63717,1838,Thailand,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,1,Syria,Other,Other,Yes,No,2008,02/06/2008,06/29/2008
+908-AFG-UZB-37442,150,Seychelles,AFG,Asia,Southern,No,S,Emperor,Karzai,Karzai Karzai,0,Bulgaria,Other,Other,Yes,Yes,2023,01/03/2023,12/03/2023
+540-AFG-TJK-56565,737,Japan,AFG,Asia,Southern,No,S,King,Rabbani,Rabbani Rabbani,1,Japan,Other,Other,Yes,Yes,2000,06/09/2000,06/11/2000
+171-AFG-PAK-64589,1856,Russia,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,El Salvador,Other,Other,Yes,No,1990,05/30/1990,09/21/1990
+866-AFG-IRN-52960,267,Sweden,AFG,Asia,Southern,No,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,Bahrain,Other,Other,No,No,1990,07/10/1990,12/12/1990
+329-AFG-UZB-83881,874,Denmark,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,0,Honduras,Other,Other,Yes,Yes,2022,06/16/2022,12/02/2022
+439-AFG-UZB-61884,106,Ivory Coast,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Spain,Europe,Western,Yes,Yes,1997,10/05/1997,10/17/1997
+205-AFG-IND-61896,1074,South Korea,AFG,Asia,Southern,Yes,S,King,Najibullah,Najibullah Najibullah,0,Greece,Other,Other,Yes,No,1992,03/03/1992,12/07/1992
+374-AFG-UZB-56560,1140,Slovakia,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,1,Colombia,Other,Other,No,Yes,2023,02/15/2023,05/03/2023
+680-AFG-UZB-85606,587,Zimbabwe,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Norway,Other,Other,No,No,2002,05/06/2002,07/13/2002
+220-AFG-TJK-34740,248,Panama,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Mozambique,Other,Other,Yes,No,2000,02/03/2000,06/26/2000
+680-AFG-IND-85514,1943,Ivory Coast,AFG,Asia,Southern,Yes,De Facto,Emperor,Najibullah,Najibullah Najibullah,0,Guatemala,Other,Other,Yes,No,2011,01/31/2011,09/19/2011
+767-AFG-IRN-58972,1028,Afghanistan,AFG,Asia,Southern,Yes,S,Head of State,Mojadedi,Mojadedi Mojadedi,1,Vietnam,Other,Other,No,Yes,1997,09/01/1997,12/15/1997
+159-AFG-UZB-48707,1473,Cuba,AFG,Asia,Southern,No,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Greece,Other,Other,Yes,Yes,2019,01/13/2019,07/07/2019
+696-AFG-UZB-80412,1288,Czech Republic,AFG,Asia,Southern,Yes,S,President,Mojadedi,Mojadedi Mojadedi,0,Mozambique,Other,Other,Yes,Yes,2023,05/06/2023,07/31/2023
+973-AFG-UZB-47930,959,Australia,AFG,Asia,Southern,No,GS,Acting President,Karzai,Karzai Karzai,1,Estonia,Other,Other,Yes,Yes,1996,01/17/1996,09/05/1996
+306-AFG-UZB-97799,389,Japan,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Ecuador,Other,Other,Yes,Yes,2014,05/30/2014,08/22/2014
+688-AFG-TJK-34496,295,Belarus,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Sri Lanka,Other,Other,Yes,No,2009,09/22/2009,10/23/2009
+822-AFG-TJK-53960,588,Portugal,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,0,Dominican Republic,Other,Other,Yes,Yes,2010,03/11/2010,12/01/2010
+293-AFG-UZB-55590,512,Tajikistan,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Singapore,Other,Other,No,Yes,2010,01/05/2010,12/13/2010
+876-AFG-SUN-44750,1824,Costa Rica,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Rwanda,Other,Other,No,Yes,2017,02/17/2017,07/10/2017
+541-AFG-IND-40551,1735,Tajikistan,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,1,Turkmenistan,Other,Other,Yes,No,2014,04/30/2014,06/21/2014
+469-AFG-TJK-79492,1485,Kazakhstan,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Cameroon,Other,Other,Yes,Yes,1999,06/20/1999,10/02/1999
+219-AFG-IND-43181,475,Iraq,AFG,Asia,Southern,Yes,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Mozambique,Other,Other,No,Yes,2015,07/06/2015,11/05/2015
+842-AFG-IND-80170,466,Spain,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,1,Zambia,Other,Other,No,Yes,2005,09/04/2005,11/06/2005
+881-AFG-SUN-77446,243,Brazil,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,0,Tajikistan,Asia,Southern,No,Yes,2021,12/05/2021,12/06/2021
+907-AFG-IND-35914,843,Turkey,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,1,Paraguay,Other,Other,No,Yes,2013,07/08/2013,09/30/2013
+587-AFG-IRN-38303,1517,Slovakia,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Seychelles,Other,Other,Yes,Yes,2018,01/03/2018,08/03/2018
+939-AFG-UZB-67929,856,Bolivia,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,0,Russia,Other,Other,No,No,1991,05/31/1991,11/14/1991
+699-AFG-IRN-90343,1568,Lebanon,AFG,Asia,Southern,No,De Facto,President,Rabbani,Rabbani Rabbani,0,Australia,Other,Other,Yes,Yes,2012,04/19/2012,09/16/2012
+370-AFG-TJK-39484,459,Ivory Coast,AFG,Asia,Southern,Yes,GS,Head of State,Mojadedi,Mojadedi Mojadedi,0,Azerbaijan,Other,Other,No,No,1993,01/08/1993,03/10/1993
+183-AFG-UZB-40597,1705,Azerbaijan,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,Niger,Other,Other,Yes,Yes,1997,06/27/1997,12/05/1997
+870-AFG-TJK-40088,115,Philippines,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,1,Congo,Other,Other,Yes,Yes,1998,06/23/1998,09/21/1998
+264-AFG-PAK-54027,1521,Sierra Leone,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,1,Jordan,Other,Other,Yes,No,2002,07/27/2002,10/29/2002
+508-AFG-PAK-59125,225,Turkey,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,1,Romania,Other,Other,No,No,2023,03/14/2023,04/28/2023
+448-AFG-TJK-67337,1622,Chile,AFG,Asia,Southern,No,De Facto,Head of State,Rabbani,Rabbani Rabbani,1,United States,America,North/South,No,No,1998,02/23/1998,12/24/1998
+991-AFG-PAK-56608,249,Nigeria,AFG,Asia,Southern,Yes,S,Chancellor,Karzai,Karzai Karzai,1,Pakistan,Asia,Southern,No,No,2023,02/09/2023,10/05/2023
+385-AFG-PAK-64222,671,Rwanda,AFG,Asia,Southern,Yes,S,Head of State,Rabbani,Rabbani Rabbani,1,Russia,Other,Other,Yes,Yes,2018,01/19/2018,08/14/2018
+841-AFG-IRN-50856,260,Portugal,AFG,Asia,Southern,Yes,S,Chancellor,Najibullah,Najibullah Najibullah,0,Kyrgyzstan,Other,Other,No,Yes,2004,01/30/2004,06/03/2004
+392-AFG-IRN-84310,1422,Greece,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,1,Senegal,Other,Other,Yes,Yes,2004,05/05/2004,08/31/2004
+653-AFG-IND-65116,1767,Ireland,AFG,Asia,Southern,No,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Rwanda,Other,Other,Yes,No,2003,03/13/2003,05/12/2003
+805-AFG-PAK-57915,1271,Guatemala,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Cuba,Other,Other,No,No,2018,02/07/2018,12/19/2018
+425-AFG-SUN-49025,1753,Peru,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,0,Australia,Other,Other,Yes,Yes,2022,04/26/2022,08/29/2022
+904-AFG-SUN-39115,1124,Belarus,AFG,Asia,Southern,Yes,S,King,Karzai,Karzai Karzai,0,Nigeria,Africa,Northern/Southern,Yes,No,2020,01/20/2020,08/29/2020
+633-AFG-SUN-73913,1390,Bangladesh,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,1,Kuwait,Other,Other,No,Yes,2000,03/02/2000,08/17/2000
+448-AFG-IND-44818,930,Panama,AFG,Asia,Southern,Yes,De Facto,King,Mojadedi,Mojadedi Mojadedi,0,Canada,America,North/South,No,Yes,2009,04/07/2009,05/04/2009
+406-AFG-PAK-73197,1323,Kyrgyzstan,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,1,Australia,Other,Other,No,No,2009,01/30/2009,11/17/2009
+886-AFG-PAK-35131,558,Sudan,AFG,Asia,Southern,No,GS,Acting President,Karzai,Karzai Karzai,0,Eswatini,Other,Other,No,Yes,1996,09/11/1996,09/15/1996
+761-AFG-TJK-55017,231,Austria,AFG,Asia,Southern,Yes,De Facto,Head of State,Rabbani,Rabbani Rabbani,1,Colombia,Other,Other,Yes,Yes,2022,06/03/2022,12/28/2022
+433-AFG-IRN-61879,1478,Serbia,AFG,Asia,Southern,No,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,Democratic Republic of the Congo,Other,Other,No,No,1992,02/26/1992,12/10/1992
+651-AFG-PAK-63452,1409,Slovakia,AFG,Asia,Southern,Yes,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Nepal,Other,Other,No,Yes,1994,02/02/1994,05/04/1994
+598-AFG-IRN-52646,1159,Egypt,AFG,Asia,Southern,No,S,President,Karzai,Karzai Karzai,1,Turkey,Other,Other,Yes,No,1999,11/14/1999,11/27/1999
+848-AFG-UZB-62532,169,Haiti,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Congo,Other,Other,No,Yes,1999,10/06/1999,11/18/1999
+106-AFG-PAK-65639,1392,Spain,AFG,Asia,Southern,No,GS,General Secretary,Karzai,Karzai Karzai,0,Lithuania,Other,Other,No,Yes,2015,10/01/2015,11/14/2015
+365-AFG-UZB-99506,1179,Tanzania,AFG,Asia,Southern,No,De Facto,General Secretary,Najibullah,Najibullah Najibullah,0,Sudan,Other,Other,No,Yes,2023,04/11/2023,06/16/2023
+995-AFG-IND-82807,342,Nicaragua,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Nepal,Other,Other,Yes,Yes,2017,08/19/2017,10/18/2017
+794-AFG-TJK-73110,1495,Uganda,AFG,Asia,Southern,No,S,Emperor,Rabbani,Rabbani Rabbani,1,Cuba,Other,Other,No,Yes,2002,06/12/2002,09/17/2002
+632-AFG-SUN-36676,1607,United States,AFG,Asia,Southern,No,S,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Yemen,Other,Other,Yes,No,2009,04/19/2009,05/07/2009
+405-AFG-PAK-76440,1579,Czech Republic,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Jordan,Other,Other,Yes,No,1996,09/13/1996,10/03/1996
+520-AFG-IND-73618,1812,Japan,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,1,Thailand,Other,Other,No,No,2011,08/12/2011,10/21/2011
+561-AFG-TJK-74108,1424,Germany,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Russia,Other,Other,No,No,1993,03/25/1993,08/18/1993
+568-AFG-SUN-80252,1604,Chile,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Bulgaria,Other,Other,Yes,Yes,2022,08/28/2022,12/23/2022
+961-AFG-PAK-85136,625,France,AFG,Asia,Southern,Yes,De Facto,General Secretary,Karzai,Karzai Karzai,0,Azerbaijan,Other,Other,No,No,2021,01/28/2021,11/01/2021
+449-AFG-TJK-60110,434,United States,AFG,Asia,Southern,No,S,Head of State,Najibullah,Najibullah Najibullah,1,Oman,Other,Other,Yes,No,2016,06/10/2016,09/08/2016
+534-AFG-UZB-80506,347,Bahrain,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,1,Chile,Other,Other,No,No,2000,04/18/2000,08/19/2000
+382-AFG-SUN-61188,1108,Trinidad and Tobago,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,0,Kenya,Africa,Northern/Southern,No,No,2007,03/19/2007,08/20/2007
+317-AFG-IRN-34895,166,Netherlands,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Najibullah,Najibullah Najibullah,0,Uzbekistan,Asia,Southern,Yes,No,2008,01/20/2008,03/08/2008
+398-AFG-IND-37125,1081,Uruguay,AFG,Asia,Southern,Yes,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Afghanistan,Asia,Southern,Yes,No,2007,07/29/2007,09/01/2007
+595-AFG-PAK-40223,1102,Indonesia,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Haiti,Other,Other,No,No,1993,01/01/1993,06/16/1993
+510-AFG-UZB-72032,1908,Democratic Republic of the Congo,AFG,Asia,Southern,No,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Singapore,Other,Other,No,No,1993,01/04/1993,08/28/1993
+789-AFG-TJK-84262,684,Mongolia,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,1,Mexico,America,North/South,Yes,No,2009,03/02/2009,07/27/2009
+807-AFG-SUN-76418,124,Egypt,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,1,Azerbaijan,Other,Other,No,No,2005,08/10/2005,09/05/2005
+671-AFG-IND-53103,1416,Barbados,AFG,Asia,Southern,Yes,S,President,Karzai,Karzai Karzai,1,Guatemala,Other,Other,Yes,Yes,2002,09/30/2002,12/18/2002
+161-AFG-UZB-89303,254,South Korea,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,0,Haiti,Other,Other,Yes,No,1992,06/18/1992,10/02/1992
+763-AFG-IRN-56274,1822,Tajikistan,AFG,Asia,Southern,No,S,King,Mojadedi,Mojadedi Mojadedi,1,Slovakia,Other,Other,Yes,No,2016,03/04/2016,06/28/2016
+479-AFG-TJK-52165,710,Yemen,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,1,Indonesia,Other,Other,Yes,Yes,2021,07/18/2021,10/05/2021
+868-AFG-UZB-61510,401,Norway,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,1,Mongolia,Other,Other,Yes,No,2022,03/05/2022,10/14/2022
+117-AFG-SUN-44633,549,Turkey,AFG,Asia,Southern,No,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Central African Republic,Other,Other,Yes,No,2002,04/05/2002,11/13/2002
+641-AFG-IND-35952,1120,Georgia,AFG,Asia,Southern,No,De Facto,President,Karzai,Karzai Karzai,0,Ivory Coast,Other,Other,Yes,No,2009,06/21/2009,12/03/2009
+261-AFG-IND-45902,1196,Yemen,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,0,Romania,Other,Other,No,Yes,2004,04/14/2004,08/12/2004
+350-AFG-TJK-80964,1838,Iraq,AFG,Asia,Southern,Yes,S,Emperor,Rabbani,Rabbani Rabbani,1,United Arab Emirates,Other,Other,Yes,No,2009,01/15/2009,02/17/2009
+147-AFG-PAK-87714,1327,Iceland,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,0,Jamaica,Other,Other,No,Yes,1995,08/12/1995,10/01/1995
+945-AFG-UZB-71287,1317,India,AFG,Asia,Southern,No,De Facto,Emperor,Karzai,Karzai Karzai,0,China,Other,Other,Yes,No,1990,05/26/1990,06/11/1990
+994-AFG-PAK-38257,1348,Brazil,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Iraq,Other,Other,Yes,Yes,1992,02/13/1992,08/30/1992
+387-AFG-IND-65022,687,Mauritius,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,1,Sri Lanka,Other,Other,No,No,2015,05/20/2015,08/05/2015
+113-AFG-IND-36408,1886,Panama,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,1,Belgium,Other,Other,No,No,2003,04/28/2003,07/28/2003
+505-AFG-PAK-68003,985,Tanzania,AFG,Asia,Southern,No,S,Prime Minister,Karzai,Karzai Karzai,1,Ukraine,Other,Other,No,No,2007,04/21/2007,10/29/2007
+692-AFG-PAK-96947,1812,New Zealand,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,0,Iran,Asia,Southern,Yes,Yes,2010,02/05/2010,02/14/2010
+684-AFG-IND-81437,1467,Switzerland,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Mozambique,Other,Other,Yes,No,2017,01/07/2017,08/18/2017
+493-AFG-TJK-47505,210,Maldives,AFG,Asia,Southern,No,GS,Acting President,Karzai,Karzai Karzai,0,Chad,Other,Other,No,Yes,2004,03/10/2004,07/05/2004
+219-AFG-PAK-68187,1762,Qatar,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,1,Lesotho,Other,Other,Yes,Yes,2007,10/11/2007,12/18/2007
+733-AFG-IRN-40187,180,Kazakhstan,AFG,Asia,Southern,Yes,De Facto,General Secretary,Karzai,Karzai Karzai,0,Niger,Other,Other,Yes,No,2006,08/01/2006,09/28/2006
+419-AFG-TJK-74674,828,Yemen,AFG,Asia,Southern,No,De Facto,Chancellor,Karzai,Karzai Karzai,1,South Korea,Other,Other,Yes,Yes,2014,01/24/2014,07/07/2014
+348-AFG-PAK-77718,786,Switzerland,AFG,Asia,Southern,No,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,South Africa,Africa,Northern/Southern,Yes,No,2022,06/16/2022,12/10/2022
+396-AFG-SUN-39361,1783,Nigeria,AFG,Asia,Southern,No,GS,President,Najibullah,Najibullah Najibullah,1,Argentina,America,North/South,Yes,No,2021,02/08/2021,04/17/2021
+642-AFG-PAK-79476,651,Mozambique,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Kyrgyzstan,Other,Other,Yes,Yes,2011,06/01/2011,06/29/2011
+612-AFG-IND-68753,1791,Guatemala,AFG,Asia,Southern,No,GS,Emperor,Najibullah,Najibullah Najibullah,0,Turkey,Other,Other,Yes,Yes,1995,02/11/1995,10/18/1995
+950-AFG-UZB-35068,205,Lesotho,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,1,Czech Republic,Other,Other,No,Yes,2014,05/18/2014,09/20/2014
+953-AFG-SUN-66155,1241,Lebanon,AFG,Asia,Southern,Yes,S,Acting President,Najibullah,Najibullah Najibullah,1,Malaysia,Other,Other,No,No,2017,01/09/2017,11/18/2017
+896-AFG-PAK-60967,1003,Uganda,AFG,Asia,Southern,No,GS,Emperor,Mojadedi,Mojadedi Mojadedi,1,Norway,Other,Other,Yes,Yes,2017,04/22/2017,10/30/2017
+944-AFG-UZB-47616,538,Rwanda,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,1,Bhutan,Other,Other,No,No,1992,03/24/1992,10/30/1992
+991-AFG-UZB-99758,438,Namibia,AFG,Asia,Southern,Yes,GS,General Secretary,Najibullah,Najibullah Najibullah,1,Finland,Other,Other,No,Yes,2004,05/20/2004,07/20/2004
+628-AFG-SUN-80158,1254,Armenia,AFG,Asia,Southern,Yes,GS,Chancellor,Najibullah,Najibullah Najibullah,0,Moldova,Other,Other,Yes,Yes,1999,06/23/1999,10/08/1999
+854-AFG-IRN-86930,1518,Iceland,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,0,Niger,Other,Other,Yes,Yes,2005,05/15/2005,11/06/2005
+818-AFG-IND-38666,1968,Mozambique,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,0,Australia,Other,Other,No,Yes,1997,03/18/1997,06/25/1997
+526-AFG-UZB-78835,226,Lebanon,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,0,Chad,Other,Other,No,No,2022,01/13/2022,09/17/2022
+973-AFG-SUN-84007,440,Sierra Leone,AFG,Asia,Southern,Yes,De Facto,Acting President,Karzai,Karzai Karzai,0,Finland,Other,Other,No,No,1992,03/15/1992,12/09/1992
+678-AFG-UZB-45960,1453,Iraq,AFG,Asia,Southern,Yes,GS,President,Karzai,Karzai Karzai,0,Central African Republic,Other,Other,Yes,Yes,2005,02/22/2005,12/24/2005
+224-AFG-IND-91074,602,Switzerland,AFG,Asia,Southern,No,De Facto,Head of State,Karzai,Karzai Karzai,1,Syria,Other,Other,Yes,Yes,1996,01/28/1996,04/10/1996
+581-AFG-TJK-66471,1758,Mexico,AFG,Asia,Southern,Yes,GS,Emperor,Najibullah,Najibullah Najibullah,0,Czech Republic,Other,Other,Yes,Yes,1991,02/14/1991,07/18/1991
+877-AFG-IND-86452,334,Romania,AFG,Asia,Southern,No,S,Emperor,Rabbani,Rabbani Rabbani,1,Maldives,Other,Other,Yes,No,1991,02/19/1991,03/26/1991
+556-AFG-UZB-49677,500,Slovakia,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,0,Congo,Other,Other,Yes,No,2014,01/02/2014,11/01/2014
+356-AFG-IND-82707,1267,Sudan,AFG,Asia,Southern,Yes,S,Head of State,Rabbani,Rabbani Rabbani,1,Portugal,Other,Other,Yes,No,1996,02/28/1996,08/17/1996
+651-AFG-IND-85827,327,Thailand,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,0,Turkey,Other,Other,Yes,No,1991,05/20/1991,06/18/1991
+650-AFG-UZB-34846,445,El Salvador,AFG,Asia,Southern,No,S,President,Rabbani,Rabbani Rabbani,0,Kenya,Africa,Northern/Southern,No,Yes,2018,01/07/2018,03/17/2018
+432-AFG-TJK-33815,1702,Chile,AFG,Asia,Southern,Yes,S,Head of State,Rabbani,Rabbani Rabbani,1,Russia,Other,Other,Yes,No,2016,03/14/2016,04/27/2016
+520-AFG-IRN-48554,1522,Sierra Leone,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,0,Ukraine,Other,Other,No,Yes,1990,08/09/1990,12/11/1990
+437-AFG-UZB-74727,971,El Salvador,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Rwanda,Other,Other,No,Yes,2015,02/13/2015,05/31/2015
+353-AFG-IRN-96199,570,Colombia,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Jamaica,Other,Other,No,No,1991,06/19/1991,08/29/1991
+226-AFG-IRN-97640,1767,Trinidad and Tobago,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,Germany,Europe,Western,Yes,Yes,1999,04/10/1999,05/07/1999
+881-AFG-IRN-80739,1696,Lebanon,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Honduras,Other,Other,Yes,No,2010,08/07/2010,11/11/2010
+837-AFG-TJK-84341,815,Mexico,AFG,Asia,Southern,Yes,GS,Prime Minister,Karzai,Karzai Karzai,0,Indonesia,Other,Other,Yes,Yes,2006,10/24/2006,12/21/2006
+402-AFG-SUN-76938,481,Mongolia,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,1,Philippines,Other,Other,No,Yes,2003,01/25/2003,09/05/2003
+834-AFG-TJK-90546,1783,Hungary,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,1,Honduras,Other,Other,No,No,2001,10/14/2001,11/01/2001
+554-AFG-UZB-45071,674,United Arab Emirates,AFG,Asia,Southern,No,De Facto,Prime Minister,Najibullah,Najibullah Najibullah,0,South Africa,Africa,Northern/Southern,Yes,No,2008,06/21/2008,08/08/2008
+153-AFG-TJK-56056,214,Russia,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Italy,Europe,Western,Yes,No,2010,04/29/2010,12/16/2010
+252-AFG-IRN-52153,1761,Belgium,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Estonia,Other,Other,Yes,No,2015,10/01/2015,10/23/2015
+547-AFG-IRN-62377,730,Pakistan,AFG,Asia,Southern,Yes,GS,Head of State,Rabbani,Rabbani Rabbani,1,Ecuador,Other,Other,Yes,Yes,2002,06/13/2002,10/11/2002
+707-AFG-UZB-85015,1739,Yemen,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Switzerland,Other,Other,No,No,2004,04/27/2004,12/04/2004
+572-AFG-IRN-34264,877,Finland,AFG,Asia,Southern,Yes,De Facto,Acting President,Karzai,Karzai Karzai,0,Canada,America,North/South,Yes,No,2007,05/26/2007,12/08/2007
+353-AFG-SUN-95989,637,Denmark,AFG,Asia,Southern,Yes,GS,King,Mojadedi,Mojadedi Mojadedi,0,Tajikistan,Asia,Southern,No,No,1999,03/27/1999,04/15/1999
+853-AFG-PAK-63752,527,Kuwait,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Eswatini,Other,Other,No,Yes,2022,07/22/2022,08/06/2022
+127-AFG-PAK-55662,815,Kazakhstan,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,1,Oman,Other,Other,No,No,2010,01/14/2010,12/14/2010
+151-AFG-PAK-99391,1579,Bahrain,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,1,Russia,Other,Other,Yes,No,2013,02/16/2013,12/21/2013
+494-AFG-IND-39987,1624,Uganda,AFG,Asia,Southern,Yes,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Greece,Other,Other,Yes,No,2019,04/05/2019,05/23/2019
+366-AFG-IRN-83649,962,Kazakhstan,AFG,Asia,Southern,Yes,S,King,Rabbani,Rabbani Rabbani,0,Iran,Asia,Southern,Yes,No,2007,09/19/2007,09/27/2007
+864-AFG-UZB-49086,1719,Bhutan,AFG,Asia,Southern,Yes,S,Emperor,Karzai,Karzai Karzai,1,Denmark,Other,Other,No,No,1998,07/02/1998,07/24/1998
+764-AFG-PAK-89487,531,Ecuador,AFG,Asia,Southern,Yes,GS,Chancellor,Najibullah,Najibullah Najibullah,1,Uganda,Other,Other,No,No,2005,08/01/2005,11/14/2005
+915-AFG-IRN-88317,1453,Bulgaria,AFG,Asia,Southern,Yes,S,Emperor,Karzai,Karzai Karzai,0,Bolivia,Other,Other,No,No,1999,05/20/1999,08/26/1999
+416-AFG-SUN-71772,1017,Belgium,AFG,Asia,Southern,Yes,GS,Chancellor,Rabbani,Rabbani Rabbani,1,Nigeria,Africa,Northern/Southern,No,Yes,1990,06/02/1990,06/14/1990
+363-AFG-SUN-54951,1674,Czech Republic,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Qatar,Other,Other,No,Yes,2000,07/13/2000,10/08/2000
+463-AFG-IRN-88835,1912,Iran,AFG,Asia,Southern,No,S,Chancellor,Rabbani,Rabbani Rabbani,0,Jordan,Other,Other,Yes,Yes,1996,03/19/1996,05/12/1996
+679-AFG-UZB-89962,814,Jamaica,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,0,Uzbekistan,Asia,Southern,No,No,2011,03/06/2011,11/25/2011
+132-AFG-UZB-95654,616,Cuba,AFG,Asia,Southern,No,GS,Chancellor,Najibullah,Najibullah Najibullah,1,Eswatini,Other,Other,Yes,Yes,1997,10/21/1997,11/08/1997
+695-AFG-IRN-65765,908,Oman,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,0,Trinidad and Tobago,Other,Other,No,Yes,2016,02/12/2016,07/25/2016
+165-AFG-TJK-99102,1142,Latvia,AFG,Asia,Southern,No,S,President,Karzai,Karzai Karzai,1,Chad,Other,Other,No,Yes,1990,01/25/1990,05/20/1990
+710-AFG-SUN-53613,1225,Kenya,AFG,Asia,Southern,No,S,King,Rabbani,Rabbani Rabbani,0,Armenia,Other,Other,No,Yes,2017,05/21/2017,10/14/2017
+273-AFG-UZB-81500,824,Qatar,AFG,Asia,Southern,No,GS,Chancellor,Rabbani,Rabbani Rabbani,1,Colombia,Other,Other,Yes,Yes,2018,05/30/2018,10/18/2018
+814-AFG-IND-45006,1093,Russia,AFG,Asia,Southern,Yes,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Lesotho,Other,Other,No,Yes,2010,04/05/2010,11/24/2010
+210-AFG-TJK-46195,687,China,AFG,Asia,Southern,No,S,Head of State,Rabbani,Rabbani Rabbani,0,Thailand,Other,Other,No,No,2022,02/01/2022,10/07/2022
+631-AFG-PAK-78106,1869,South Africa,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,1,Jordan,Other,Other,No,Yes,2009,08/17/2009,10/02/2009
+456-AFG-TJK-96965,773,Eswatini,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Denmark,Other,Other,Yes,No,2017,07/20/2017,09/01/2017
+333-AFG-PAK-48543,1501,Bulgaria,AFG,Asia,Southern,Yes,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Norway,Other,Other,No,No,2006,08/10/2006,12/15/2006
+720-AFG-PAK-49804,1454,Cuba,AFG,Asia,Southern,Yes,S,Head of State,Rabbani,Rabbani Rabbani,0,Indonesia,Other,Other,No,No,2017,03/22/2017,07/20/2017
+990-AFG-TJK-75248,1670,Brazil,AFG,Asia,Southern,No,GS,General Secretary,Rabbani,Rabbani Rabbani,1,Bolivia,Other,Other,Yes,Yes,2018,01/21/2018,09/03/2018
+385-AFG-IND-41913,489,Kuwait,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,0,Slovakia,Other,Other,Yes,No,2000,09/20/2000,11/11/2000
+706-AFG-IND-57929,1743,Chile,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Russia,Other,Other,Yes,No,2017,05/27/2017,10/30/2017
+737-AFG-SUN-55054,1248,Niger,AFG,Asia,Southern,No,De Facto,Acting President,Karzai,Karzai Karzai,1,Georgia,Other,Other,Yes,No,2010,02/17/2010,05/15/2010
+583-AFG-PAK-89374,1858,Nepal,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,0,Turkmenistan,Other,Other,No,Yes,2012,08/08/2012,11/13/2012
+613-AFG-IND-87563,1837,Sierra Leone,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,0,Central African Republic,Other,Other,No,Yes,2018,06/25/2018,12/14/2018
+931-AFG-TJK-88219,732,New Zealand,AFG,Asia,Southern,Yes,GS,King,Karzai,Karzai Karzai,0,China,Other,Other,Yes,Yes,2007,09/17/2007,10/03/2007
+305-AFG-IRN-73564,1388,Singapore,AFG,Asia,Southern,Yes,S,King,Rabbani,Rabbani Rabbani,1,Mali,Other,Other,No,No,2005,03/18/2005,12/26/2005
+253-AFG-UZB-50811,441,Sudan,AFG,Asia,Southern,No,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Bolivia,Other,Other,Yes,No,2001,02/08/2001,05/26/2001
+123-AFG-IRN-86392,501,South Africa,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,1,Russia,Other,Other,No,Yes,2002,02/07/2002,11/24/2002
+127-AFG-SUN-92587,234,Kazakhstan,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Bangladesh,Other,Other,Yes,Yes,1999,01/11/1999,06/16/1999
+560-AFG-UZB-99255,426,Spain,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,0,Slovenia,Other,Other,No,Yes,2005,03/05/2005,09/11/2005
+352-AFG-TJK-98635,1692,Trinidad and Tobago,AFG,Asia,Southern,No,GS,President,Karzai,Karzai Karzai,1,Kazakhstan,Other,Other,Yes,No,1994,01/06/1994,06/09/1994
+886-AFG-SUN-50030,1870,Germany,AFG,Asia,Southern,No,De Facto,President,Karzai,Karzai Karzai,0,Latvia,Other,Other,Yes,No,2008,04/04/2008,11/22/2008
+226-AFG-PAK-94892,1348,Russia,AFG,Asia,Southern,No,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Mongolia,Other,Other,Yes,Yes,2001,01/14/2001,01/29/2001
+341-AFG-SUN-65308,1464,Syria,AFG,Asia,Southern,No,GS,President,Mojadedi,Mojadedi Mojadedi,1,Zimbabwe,Other,Other,Yes,Yes,2021,10/01/2021,12/26/2021
+180-AFG-SUN-87293,1135,Kazakhstan,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,0,Romania,Other,Other,Yes,No,2009,03/29/2009,07/04/2009
+166-AFG-UZB-45350,528,Nigeria,AFG,Asia,Southern,Yes,De Facto,King,Karzai,Karzai Karzai,1,Serbia,Other,Other,No,Yes,2014,03/20/2014,08/06/2014
+759-AFG-SUN-38793,543,Russia,AFG,Asia,Southern,Yes,S,Emperor,Mojadedi,Mojadedi Mojadedi,1,Thailand,Other,Other,No,No,2021,05/11/2021,07/11/2021
+691-AFG-SUN-70771,154,Canada,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,1,Mexico,America,North/South,Yes,No,2020,04/22/2020,06/09/2020
+368-AFG-TJK-50241,642,Tajikistan,AFG,Asia,Southern,No,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,Kenya,Africa,Northern/Southern,Yes,Yes,1999,02/21/1999,07/21/1999
+336-AFG-IRN-48755,730,Afghanistan,AFG,Asia,Southern,No,S,Head of State,Karzai,Karzai Karzai,0,Zambia,Other,Other,Yes,Yes,1999,03/23/1999,05/16/1999
+537-AFG-IND-67213,1538,Norway,AFG,Asia,Southern,No,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Australia,Other,Other,Yes,No,1995,05/30/1995,12/16/1995
+136-AFG-PAK-99105,922,Argentina,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,Panama,Other,Other,No,No,2000,06/17/2000,07/13/2000
+434-AFG-PAK-68924,436,Bulgaria,AFG,Asia,Southern,No,S,President,Mojadedi,Mojadedi Mojadedi,1,Venezuela,Other,Other,No,No,2021,06/17/2021,07/20/2021
+978-AFG-TJK-64031,1456,Guatemala,AFG,Asia,Southern,No,GS,Emperor,Karzai,Karzai Karzai,0,Oman,Other,Other,No,Yes,2003,05/06/2003,07/18/2003
+370-AFG-SUN-92414,577,Turkey,AFG,Asia,Southern,No,De Facto,Chancellor,Karzai,Karzai Karzai,0,Barbados,Other,Other,No,Yes,2013,06/27/2013,09/30/2013
+560-AFG-UZB-95998,766,Indonesia,AFG,Asia,Southern,No,S,General Secretary,Rabbani,Rabbani Rabbani,1,India,Asia,Southern,No,No,2023,01/29/2023,08/26/2023
+642-AFG-IND-68330,278,Malawi,AFG,Asia,Southern,No,GS,King,Najibullah,Najibullah Najibullah,0,Russia,Other,Other,Yes,Yes,1997,04/08/1997,10/07/1997
+817-AFG-IND-79390,1862,Spain,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Peru,Other,Other,No,No,1990,06/05/1990,07/30/1990
+759-AFG-TJK-38112,740,Bahrain,AFG,Asia,Southern,No,S,Prime Minister,Najibullah,Najibullah Najibullah,1,Sweden,Other,Other,No,No,2012,01/18/2012,12/26/2012
+344-AFG-PAK-59487,1092,Mali,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Thailand,Other,Other,Yes,No,1993,05/21/1993,06/18/1993
+639-AFG-TJK-65286,504,Panama,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Eswatini,Other,Other,No,Yes,1998,05/03/1998,05/11/1998
+506-AFG-PAK-40019,1145,South Africa,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,0,Austria,Other,Other,Yes,No,2001,03/04/2001,07/06/2001
+707-AFG-SUN-58630,1956,Cameroon,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,0,Kazakhstan,Other,Other,Yes,Yes,2013,03/06/2013,04/26/2013
+579-AFG-PAK-61070,718,Namibia,AFG,Asia,Southern,Yes,De Facto,Emperor,Najibullah,Najibullah Najibullah,1,Jordan,Other,Other,Yes,Yes,1990,06/18/1990,10/04/1990
+388-AFG-PAK-48920,1400,Sweden,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Congo,Other,Other,Yes,Yes,2008,08/12/2008,12/30/2008
+976-AFG-TJK-96116,788,Mongolia,AFG,Asia,Southern,No,De Facto,President,Karzai,Karzai Karzai,1,Paraguay,Other,Other,No,Yes,1995,04/19/1995,06/29/1995
+783-AFG-PAK-35771,1357,Belarus,AFG,Asia,Southern,Yes,S,Emperor,Najibullah,Najibullah Najibullah,1,Uzbekistan,Asia,Southern,Yes,Yes,1993,09/16/1993,12/17/1993
+952-AFG-UZB-33973,1471,Democratic Republic of the Congo,AFG,Asia,Southern,No,GS,Head of State,Karzai,Karzai Karzai,0,Japan,Other,Other,No,No,2001,06/10/2001,07/21/2001
+212-AFG-PAK-71603,510,Kenya,AFG,Asia,Southern,No,GS,Head of State,Najibullah,Najibullah Najibullah,0,Mali,Other,Other,Yes,No,1991,07/08/1991,10/06/1991
+428-AFG-TJK-57110,1841,Estonia,AFG,Asia,Southern,No,GS,General Secretary,Najibullah,Najibullah Najibullah,0,China,Other,Other,Yes,Yes,1993,01/26/1993,04/28/1993
+614-AFG-SUN-84643,1891,Mozambique,AFG,Asia,Southern,Yes,S,King,Najibullah,Najibullah Najibullah,0,Romania,Other,Other,No,Yes,2012,04/27/2012,07/02/2012
+773-AFG-PAK-70399,877,Dominican Republic,AFG,Asia,Southern,Yes,De Facto,King,Rabbani,Rabbani Rabbani,0,Argentina,America,North/South,Yes,Yes,1993,04/08/1993,11/09/1993
+195-AFG-IND-73836,1368,Sudan,AFG,Asia,Southern,Yes,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Bhutan,Other,Other,Yes,Yes,2001,01/23/2001,02/07/2001
+499-AFG-TJK-85799,561,Bulgaria,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,1,Netherlands,Other,Other,Yes,Yes,1991,06/18/1991,08/30/1991
+775-AFG-TJK-71196,780,United States,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Mozambique,Other,Other,No,No,2013,02/10/2013,05/13/2013
+995-AFG-PAK-71352,796,Tajikistan,AFG,Asia,Southern,Yes,S,Head of State,Rabbani,Rabbani Rabbani,1,Afghanistan,Asia,Southern,No,Yes,1990,03/07/1990,07/30/1990
+919-AFG-IND-90028,1389,Cameroon,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,0,Ghana,Other,Other,Yes,Yes,2004,04/01/2004,10/02/2004
+287-AFG-TJK-72268,1387,Sudan,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,0,Mexico,America,North/South,No,Yes,2001,02/01/2001,12/21/2001
+800-AFG-PAK-85092,1121,Uruguay,AFG,Asia,Southern,Yes,S,Emperor,Mojadedi,Mojadedi Mojadedi,1,Mexico,America,North/South,No,No,2005,06/11/2005,12/30/2005
+938-AFG-IRN-74324,1790,Cameroon,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,0,Kenya,Africa,Northern/Southern,No,No,1993,11/14/1993,11/21/1993
+799-AFG-UZB-52319,585,Mali,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,1,Trinidad and Tobago,Other,Other,No,Yes,2018,04/02/2018,09/09/2018
+696-AFG-PAK-64308,1841,Oman,AFG,Asia,Southern,Yes,GS,King,Mojadedi,Mojadedi Mojadedi,0,Mauritius,Other,Other,Yes,No,2016,07/11/2016,12/04/2016
+182-AFG-UZB-51174,839,Guatemala,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,1,Slovenia,Other,Other,No,Yes,2015,05/24/2015,07/17/2015
+878-AFG-TJK-83029,1711,Dominican Republic,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,0,Lesotho,Other,Other,Yes,No,2006,03/14/2006,08/18/2006
+304-AFG-IRN-47296,1163,Malaysia,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,0,Austria,Other,Other,Yes,Yes,2018,06/10/2018,08/29/2018
+983-AFG-SUN-82841,1244,Greece,AFG,Asia,Southern,No,S,King,Karzai,Karzai Karzai,1,Germany,Europe,Western,No,Yes,2007,01/05/2007,03/14/2007
+928-AFG-UZB-86822,1367,Denmark,AFG,Asia,Southern,Yes,GS,Head of State,Mojadedi,Mojadedi Mojadedi,0,United Arab Emirates,Other,Other,Yes,No,2005,03/16/2005,06/13/2005
+804-AFG-UZB-86401,1736,Netherlands,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,1,South Africa,Africa,Northern/Southern,Yes,Yes,2018,03/29/2018,09/02/2018
+374-AFG-PAK-78683,1608,Slovenia,AFG,Asia,Southern,Yes,De Facto,Acting President,Najibullah,Najibullah Najibullah,1,Kazakhstan,Other,Other,Yes,Yes,1992,03/14/1992,10/28/1992
+392-AFG-TJK-85369,1730,Uruguay,AFG,Asia,Southern,No,S,King,Karzai,Karzai Karzai,0,Germany,Europe,Western,No,No,2007,02/14/2007,07/01/2007
+902-AFG-IND-41483,1309,Angola,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,0,Chad,Other,Other,No,Yes,2006,01/01/2006,08/30/2006
+310-AFG-SUN-50372,1699,Greece,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,1,Hungary,Other,Other,Yes,No,2002,03/22/2002,11/21/2002
+235-AFG-IND-35718,1840,Yemen,AFG,Asia,Southern,No,S,Prime Minister,Karzai,Karzai Karzai,1,Kazakhstan,Other,Other,Yes,No,1994,02/10/1994,10/10/1994
+665-AFG-IND-33419,273,Norway,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,0,Ireland,Other,Other,No,Yes,1990,03/07/1990,04/28/1990
+758-AFG-TJK-48635,1704,Australia,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,1,Tajikistan,Asia,Southern,No,Yes,2019,05/05/2019,05/16/2019
+599-AFG-UZB-87795,965,Guatemala,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,0,Norway,Other,Other,No,No,2023,02/26/2023,07/29/2023
+341-AFG-UZB-89037,1717,United Arab Emirates,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,1,Angola,Other,Other,No,No,2007,03/16/2007,11/24/2007
+198-AFG-IND-70354,740,Tajikistan,AFG,Asia,Southern,No,S,Prime Minister,Karzai,Karzai Karzai,1,Uzbekistan,Asia,Southern,Yes,Yes,2011,03/14/2011,11/28/2011
+959-AFG-SUN-61610,633,Cameroon,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Colombia,Other,Other,No,No,2013,03/04/2013,08/11/2013
+735-AFG-IND-74601,1949,Botswana,AFG,Asia,Southern,No,S,Chancellor,Najibullah,Najibullah Najibullah,0,Indonesia,Other,Other,Yes,No,1995,01/06/1995,12/14/1995
+895-AFG-TJK-59396,547,Singapore,AFG,Asia,Southern,Yes,GS,Chancellor,Rabbani,Rabbani Rabbani,1,India,Asia,Southern,Yes,No,1993,05/25/1993,07/21/1993
+184-AFG-IRN-37597,259,Vietnam,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,0,Kenya,Africa,Northern/Southern,Yes,Yes,2001,02/19/2001,10/22/2001
+472-AFG-IND-79681,372,Zambia,AFG,Asia,Southern,Yes,S,Chancellor,Najibullah,Najibullah Najibullah,1,Bhutan,Other,Other,No,No,2004,01/26/2004,07/15/2004
+917-AFG-UZB-93577,1723,Mauritius,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,1,Afghanistan,Asia,Southern,Yes,Yes,2016,06/04/2016,12/30/2016
+129-AFG-IND-81003,1249,Egypt,AFG,Asia,Southern,No,GS,Emperor,Karzai,Karzai Karzai,0,Seychelles,Other,Other,Yes,Yes,1999,01/23/1999,03/22/1999
+772-AFG-IND-33821,1452,Russia,AFG,Asia,Southern,Yes,De Facto,Acting President,Karzai,Karzai Karzai,0,Nepal,Other,Other,No,Yes,1995,08/17/1995,11/06/1995
+212-AFG-SUN-33237,1927,Philippines,AFG,Asia,Southern,No,S,King,Rabbani,Rabbani Rabbani,1,Eswatini,Other,Other,No,No,1999,07/22/1999,11/29/1999
+595-AFG-SUN-97721,958,South Africa,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,1,Namibia,Other,Other,Yes,Yes,1990,01/20/1990,02/21/1990
+860-AFG-IRN-76172,638,Japan,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,1,Ireland,Other,Other,No,No,2003,01/26/2003,04/21/2003
+181-AFG-SUN-84129,114,Russia,AFG,Asia,Southern,No,S,President,Mojadedi,Mojadedi Mojadedi,1,Japan,Other,Other,Yes,No,2003,01/18/2003,07/18/2003
+489-AFG-IRN-45186,840,Greece,AFG,Asia,Southern,No,GS,Chancellor,Najibullah,Najibullah Najibullah,1,Belarus,Other,Other,No,No,2014,06/11/2014,11/26/2014
+488-AFG-PAK-66619,376,Mali,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,China,Other,Other,No,No,2022,10/16/2022,12/06/2022
+391-AFG-UZB-42859,608,Saudi Arabia,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,1,Russia,Other,Other,Yes,Yes,1990,08/03/1990,10/14/1990
+533-AFG-PAK-43769,271,Nigeria,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,1,Trinidad and Tobago,Other,Other,Yes,Yes,2005,07/27/2005,10/11/2005
+270-AFG-SUN-39841,1228,Sierra Leone,AFG,Asia,Southern,No,GS,Head of State,Mojadedi,Mojadedi Mojadedi,0,Bolivia,Other,Other,Yes,Yes,2008,02/01/2008,04/10/2008
+225-AFG-IRN-36840,523,Honduras,AFG,Asia,Southern,No,S,Acting President,Rabbani,Rabbani Rabbani,1,Canada,America,North/South,No,No,2013,02/28/2013,06/12/2013
+527-AFG-SUN-91288,774,Syria,AFG,Asia,Southern,No,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Slovakia,Other,Other,Yes,No,2021,02/22/2021,04/22/2021
+201-AFG-PAK-88884,1743,Saudi Arabia,AFG,Asia,Southern,No,S,Head of State,Karzai,Karzai Karzai,0,Saudi Arabia,Other,Other,No,No,2005,01/29/2005,10/16/2005
+549-AFG-SUN-33041,920,Greece,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,0,Kyrgyzstan,Other,Other,Yes,No,2014,07/23/2014,10/25/2014
+108-AFG-PAK-50468,815,Democratic Republic of the Congo,AFG,Asia,Southern,No,De Facto,Head of State,Karzai,Karzai Karzai,0,Honduras,Other,Other,Yes,No,2000,01/22/2000,07/14/2000
+187-AFG-SUN-43482,1093,India,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,0,Singapore,Other,Other,Yes,Yes,1997,02/05/1997,12/20/1997
+304-AFG-IRN-52624,1813,Mongolia,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Mongolia,Other,Other,No,Yes,1994,09/21/1994,10/20/1994
+134-AFG-PAK-81099,991,Sri Lanka,AFG,Asia,Southern,Yes,S,Prime Minister,Najibullah,Najibullah Najibullah,1,Romania,Other,Other,No,No,2003,03/11/2003,07/15/2003
+298-AFG-IRN-55749,1953,Zimbabwe,AFG,Asia,Southern,No,De Facto,Head of State,Karzai,Karzai Karzai,1,Oman,Other,Other,No,Yes,1995,11/12/1995,12/11/1995
+611-AFG-TJK-74066,1083,France,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,0,Rwanda,Other,Other,No,No,1993,08/06/1993,08/09/1993
+739-AFG-PAK-57159,1636,Jordan,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Latvia,Other,Other,No,Yes,2018,05/28/2018,12/02/2018
+233-AFG-UZB-87513,1323,Sri Lanka,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,Peru,Other,Other,No,Yes,1990,05/15/1990,10/29/1990
+201-AFG-SUN-72967,764,Philippines,AFG,Asia,Southern,Yes,S,King,Karzai,Karzai Karzai,0,Thailand,Other,Other,Yes,No,2011,07/03/2011,07/26/2011
+797-AFG-IND-69292,1625,Turkey,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,1,El Salvador,Other,Other,Yes,No,1990,11/21/1990,12/23/1990
+694-AFG-PAK-60391,1259,Russia,AFG,Asia,Southern,Yes,S,Acting President,Rabbani,Rabbani Rabbani,0,Uzbekistan,Asia,Southern,No,No,2009,05/05/2009,12/04/2009
+892-AFG-UZB-97454,1894,China,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Nigeria,Africa,Northern/Southern,Yes,No,1991,07/04/1991,11/13/1991
+728-AFG-SUN-41341,172,India,AFG,Asia,Southern,Yes,S,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Maldives,Other,Other,No,Yes,2009,01/03/2009,07/26/2009
+852-AFG-SUN-92995,1158,Angola,AFG,Asia,Southern,Yes,S,King,Mojadedi,Mojadedi Mojadedi,0,Russia,Other,Other,Yes,Yes,2012,05/26/2012,06/30/2012
+462-AFG-IND-33878,1486,South Korea,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,1,Argentina,America,North/South,Yes,Yes,1992,05/06/1992,07/08/1992
+766-AFG-IRN-93247,977,Armenia,AFG,Asia,Southern,Yes,S,President,Rabbani,Rabbani Rabbani,1,Afghanistan,Asia,Southern,Yes,Yes,1990,07/01/1990,07/03/1990
+175-AFG-IND-76912,1084,Germany,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Sudan,Other,Other,Yes,No,1993,03/19/1993,07/05/1993
+781-AFG-IND-44349,1940,Congo,AFG,Asia,Southern,No,GS,Emperor,Karzai,Karzai Karzai,1,Switzerland,Other,Other,Yes,Yes,2005,05/10/2005,12/15/2005
+663-AFG-IRN-72843,417,Nepal,AFG,Asia,Southern,No,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,Eswatini,Other,Other,No,No,1997,08/24/1997,11/28/1997
+482-AFG-IRN-48840,1045,Malawi,AFG,Asia,Southern,No,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Russia,Other,Other,Yes,No,2020,08/17/2020,11/13/2020
+390-AFG-UZB-89450,503,Rwanda,AFG,Asia,Southern,Yes,S,Acting President,Rabbani,Rabbani Rabbani,0,Bahrain,Other,Other,Yes,No,2011,03/27/2011,11/01/2011
+578-AFG-IRN-90692,1170,Kazakhstan,AFG,Asia,Southern,No,S,King,Najibullah,Najibullah Najibullah,0,Mozambique,Other,Other,Yes,No,2002,02/17/2002,06/19/2002
+236-AFG-IRN-55510,410,Bhutan,AFG,Asia,Southern,No,De Facto,Prime Minister,Karzai,Karzai Karzai,1,Yemen,Other,Other,No,Yes,2003,02/05/2003,05/23/2003
+344-AFG-IRN-35145,721,Syria,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,0,Lithuania,Other,Other,Yes,Yes,1993,02/15/1993,03/27/1993
+778-AFG-SUN-49192,1465,Kuwait,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,Hungary,Other,Other,No,Yes,2001,02/08/2001,09/10/2001
+967-AFG-IRN-33223,566,Austria,AFG,Asia,Southern,Yes,GS,King,Mojadedi,Mojadedi Mojadedi,0,Venezuela,Other,Other,No,No,2015,11/04/2015,11/17/2015
+689-AFG-UZB-42257,236,Ireland,AFG,Asia,Southern,No,GS,President,Mojadedi,Mojadedi Mojadedi,1,Tajikistan,Asia,Southern,No,No,2020,01/08/2020,02/01/2020
+726-AFG-TJK-71151,369,Belarus,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,El Salvador,Other,Other,No,No,2022,02/01/2022,08/20/2022
+183-AFG-IRN-84240,1707,Haiti,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Maldives,Other,Other,Yes,No,2010,04/15/2010,10/21/2010
+342-AFG-PAK-98221,1326,El Salvador,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Thailand,Other,Other,Yes,No,2012,04/25/2012,12/06/2012
+548-AFG-PAK-96185,1158,Jamaica,AFG,Asia,Southern,Yes,GS,Chancellor,Karzai,Karzai Karzai,1,Bahamas,Other,Other,No,Yes,2011,04/25/2011,06/21/2011
+639-AFG-SUN-61014,439,Azerbaijan,AFG,Asia,Southern,Yes,S,Prime Minister,Najibullah,Najibullah Najibullah,0,Slovakia,Other,Other,No,No,2002,06/06/2002,11/21/2002
+106-AFG-SUN-75928,1084,Germany,AFG,Asia,Southern,Yes,De Facto,General Secretary,Karzai,Karzai Karzai,1,Mongolia,Other,Other,No,No,2004,09/26/2004,11/24/2004
+521-AFG-PAK-78291,1489,Thailand,AFG,Asia,Southern,No,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,0,Iran,Asia,Southern,Yes,No,1994,01/23/1994,07/11/1994
+698-AFG-PAK-93790,1200,Egypt,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,1,Egypt,Africa,Northern/Southern,Yes,No,2010,03/29/2010,08/19/2010
+780-AFG-PAK-34745,1672,Costa Rica,AFG,Asia,Southern,Yes,S,President,Mojadedi,Mojadedi Mojadedi,0,Trinidad and Tobago,Other,Other,Yes,No,1999,01/22/1999,09/28/1999
+328-AFG-PAK-80060,311,South Sudan,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,0,Bolivia,Other,Other,No,Yes,1995,08/27/1995,12/15/1995
+414-AFG-UZB-61734,1050,Colombia,AFG,Asia,Southern,Yes,S,Acting President,Najibullah,Najibullah Najibullah,1,Germany,Europe,Western,No,No,2017,01/19/2017,10/13/2017
+141-AFG-TJK-50928,998,United States,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Chad,Other,Other,No,No,1991,05/17/1991,08/14/1991
+416-AFG-PAK-61523,1541,Nicaragua,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Peru,Other,Other,No,Yes,2009,02/08/2009,07/08/2009
+684-AFG-UZB-53297,136,Russia,AFG,Asia,Southern,No,De Facto,General Secretary,Rabbani,Rabbani Rabbani,0,Mauritius,Other,Other,No,No,2004,09/16/2004,10/28/2004
+605-AFG-PAK-34065,1961,Syria,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,0,Bulgaria,Other,Other,No,Yes,1994,01/27/1994,07/05/1994
+956-AFG-PAK-73325,1448,Finland,AFG,Asia,Southern,No,GS,President,Najibullah,Najibullah Najibullah,0,Lesotho,Other,Other,Yes,No,1998,01/03/1998,11/17/1998
+803-AFG-IND-86303,1890,South Africa,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,1,Japan,Other,Other,No,Yes,1993,01/12/1993,06/02/1993
+697-AFG-PAK-94354,1199,Australia,AFG,Asia,Southern,No,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Mozambique,Other,Other,No,No,2002,05/16/2002,09/18/2002
+557-AFG-SUN-33484,347,Oman,AFG,Asia,Southern,Yes,De Facto,Acting President,Karzai,Karzai Karzai,0,Tanzania,Other,Other,Yes,No,2014,03/20/2014,04/15/2014
+516-AFG-IRN-44603,240,Bangladesh,AFG,Asia,Southern,No,S,King,Mojadedi,Mojadedi Mojadedi,1,Bhutan,Other,Other,No,Yes,1994,03/19/1994,10/11/1994
+620-AFG-IRN-36502,1777,Sri Lanka,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Kyrgyzstan,Other,Other,No,No,2008,07/09/2008,10/27/2008
+244-AFG-TJK-44822,872,Bolivia,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Ecuador,Other,Other,No,Yes,2011,03/24/2011,12/14/2011
+376-AFG-IRN-66977,620,Chile,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,1,Bahrain,Other,Other,Yes,No,2015,03/31/2015,07/31/2015
+862-AFG-IRN-93230,226,Russia,AFG,Asia,Southern,Yes,GS,General Secretary,Najibullah,Najibullah Najibullah,0,Romania,Other,Other,Yes,Yes,2000,07/04/2000,11/03/2000
+547-AFG-UZB-55029,978,Czech Republic,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,0,Jordan,Other,Other,Yes,Yes,1999,03/18/1999,06/28/1999
+523-AFG-PAK-78821,1643,Chile,AFG,Asia,Southern,No,GS,General Secretary,Najibullah,Najibullah Najibullah,0,Mexico,America,North/South,No,No,2016,01/23/2016,12/06/2016
+759-AFG-IRN-68462,304,Afghanistan,AFG,Asia,Southern,Yes,S,Acting President,Mojadedi,Mojadedi Mojadedi,1,Finland,Other,Other,No,No,2013,01/06/2013,09/29/2013
+394-AFG-UZB-45739,919,Iceland,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,0,Guatemala,Other,Other,No,Yes,2005,08/14/2005,12/17/2005
+424-AFG-SUN-69332,155,Ivory Coast,AFG,Asia,Southern,No,S,King,Najibullah,Najibullah Najibullah,1,Canada,America,North/South,Yes,No,2016,09/09/2016,11/27/2016
+893-AFG-UZB-75708,1214,Kenya,AFG,Asia,Southern,No,S,President,Najibullah,Najibullah Najibullah,1,Uruguay,Other,Other,Yes,No,1993,07/04/1993,09/14/1993
+365-AFG-IRN-50487,940,Russia,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,1,Qatar,Other,Other,No,No,2017,03/02/2017,05/14/2017
+890-AFG-UZB-93257,959,Seychelles,AFG,Asia,Southern,Yes,GS,Head of State,Karzai,Karzai Karzai,1,Canada,America,North/South,Yes,No,2011,03/12/2011,11/30/2011
+825-AFG-IRN-57603,860,Bahamas,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Thailand,Other,Other,No,Yes,2007,02/13/2007,05/02/2007
+846-AFG-SUN-85327,227,Democratic Republic of the Congo,AFG,Asia,Southern,No,S,Acting President,Rabbani,Rabbani Rabbani,1,Ireland,Other,Other,No,No,2022,05/12/2022,12/29/2022
+313-AFG-IRN-39666,1239,Estonia,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Hungary,Other,Other,No,Yes,1997,01/17/1997,06/22/1997
+155-AFG-IND-63287,1350,South Africa,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,0,Senegal,Other,Other,Yes,Yes,1993,09/23/1993,11/04/1993
+341-AFG-SUN-36595,1456,Canada,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,0,India,Asia,Southern,Yes,No,1996,03/30/1996,10/08/1996
+222-AFG-SUN-54246,824,Afghanistan,AFG,Asia,Southern,No,S,King,Najibullah,Najibullah Najibullah,1,Yemen,Other,Other,No,No,2002,07/12/2002,11/16/2002
+387-AFG-UZB-80636,1965,Afghanistan,AFG,Asia,Southern,No,S,President,Rabbani,Rabbani Rabbani,0,Greece,Other,Other,No,Yes,2015,06/18/2015,09/20/2015
+439-AFG-IND-71769,479,Finland,AFG,Asia,Southern,No,GS,Emperor,Najibullah,Najibullah Najibullah,0,Bolivia,Other,Other,Yes,No,1995,07/28/1995,12/13/1995
+131-AFG-IND-99038,393,Sri Lanka,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,0,Oman,Other,Other,Yes,No,1995,03/07/1995,05/14/1995
+751-AFG-IND-42030,291,Azerbaijan,AFG,Asia,Southern,No,De Facto,Emperor,Najibullah,Najibullah Najibullah,1,Lithuania,Other,Other,Yes,No,2000,08/10/2000,12/02/2000
+956-AFG-TJK-33522,1459,Egypt,AFG,Asia,Southern,No,S,Head of State,Rabbani,Rabbani Rabbani,0,Mongolia,Other,Other,No,Yes,2012,02/27/2012,05/23/2012
+986-AFG-TJK-57897,527,Lithuania,AFG,Asia,Southern,Yes,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Argentina,America,North/South,Yes,No,2014,08/25/2014,11/23/2014
+162-AFG-PAK-93796,1961,Bolivia,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,1,Turkmenistan,Other,Other,Yes,Yes,2017,02/23/2017,08/10/2017
+448-AFG-UZB-63947,1697,Angola,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,1,Iran,Asia,Southern,No,Yes,2022,01/28/2022,04/08/2022
+247-AFG-IND-95515,1193,Trinidad and Tobago,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Angola,Other,Other,Yes,Yes,1993,02/01/1993,02/12/1993
+765-AFG-TJK-76892,1597,Finland,AFG,Asia,Southern,No,S,King,Mojadedi,Mojadedi Mojadedi,0,Qatar,Other,Other,Yes,Yes,2023,06/03/2023,06/29/2023
+223-AFG-UZB-84416,1888,Azerbaijan,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,1,Cuba,Other,Other,No,No,1992,02/12/1992,07/13/1992
+276-AFG-UZB-36768,1485,South Africa,AFG,Asia,Southern,Yes,GS,Prime Minister,Karzai,Karzai Karzai,0,Japan,Other,Other,No,Yes,1998,08/10/1998,12/16/1998
+634-AFG-IRN-83613,396,Japan,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,France,Europe,Western,Yes,No,2003,02/21/2003,03/13/2003
+150-AFG-PAK-38775,1400,Russia,AFG,Asia,Southern,Yes,S,Emperor,Karzai,Karzai Karzai,0,United Arab Emirates,Other,Other,No,Yes,2019,05/13/2019,08/26/2019
+776-AFG-UZB-93836,815,Thailand,AFG,Asia,Southern,Yes,S,President,Mojadedi,Mojadedi Mojadedi,0,Latvia,Other,Other,Yes,No,1994,10/06/1994,11/27/1994
+573-AFG-IRN-59926,1199,Moldova,AFG,Asia,Southern,No,De Facto,Acting President,Karzai,Karzai Karzai,1,Singapore,Other,Other,Yes,No,2008,06/10/2008,09/07/2008
+115-AFG-PAK-68275,817,Georgia,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Malaysia,Other,Other,No,No,2008,01/25/2008,03/16/2008
+173-AFG-IRN-41377,1132,Sweden,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Romania,Other,Other,Yes,No,2008,05/02/2008,06/15/2008
+125-AFG-PAK-74383,1828,Azerbaijan,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,India,Asia,Southern,No,Yes,1997,02/07/1997,09/03/1997
+931-AFG-TJK-86304,1347,Singapore,AFG,Asia,Southern,Yes,S,Acting President,Najibullah,Najibullah Najibullah,0,Russia,Other,Other,Yes,Yes,1991,05/08/1991,12/15/1991
+424-AFG-UZB-96184,520,Greece,AFG,Asia,Southern,No,GS,Emperor,Najibullah,Najibullah Najibullah,0,Mali,Other,Other,Yes,Yes,2003,03/13/2003,10/24/2003
+219-AFG-UZB-99365,949,Saudi Arabia,AFG,Asia,Southern,Yes,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,United Arab Emirates,Other,Other,No,Yes,2012,03/05/2012,08/28/2012
+893-AFG-IRN-72532,1805,Jamaica,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,0,Oman,Other,Other,No,No,2016,09/07/2016,12/09/2016
+479-AFG-TJK-48935,1027,Ivory Coast,AFG,Asia,Southern,Yes,S,King,Rabbani,Rabbani Rabbani,1,Serbia,Other,Other,No,No,2019,02/01/2019,02/12/2019
+306-AFG-IND-51672,128,Bahrain,AFG,Asia,Southern,No,S,Emperor,Najibullah,Najibullah Najibullah,1,Afghanistan,Asia,Southern,Yes,Yes,2009,07/27/2009,08/16/2009
+604-AFG-TJK-51351,1107,Jamaica,AFG,Asia,Southern,Yes,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Jamaica,Other,Other,Yes,Yes,2007,05/13/2007,09/26/2007
+622-AFG-SUN-70549,997,South Africa,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,1,Mongolia,Other,Other,No,No,2004,02/07/2004,04/30/2004
+804-AFG-SUN-88985,1557,Mozambique,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,1,Georgia,Other,Other,No,Yes,2006,01/04/2006,03/06/2006
+244-AFG-PAK-39910,174,Seychelles,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Belarus,Other,Other,No,No,2002,07/11/2002,12/24/2002
+774-AFG-IND-62346,1387,Central African Republic,AFG,Asia,Southern,No,GS,Chancellor,Karzai,Karzai Karzai,1,Peru,Other,Other,Yes,No,2018,06/22/2018,09/29/2018
+590-AFG-TJK-34262,1374,Bhutan,AFG,Asia,Southern,Yes,GS,General Secretary,Rabbani,Rabbani Rabbani,0,Chad,Other,Other,No,Yes,1995,06/07/1995,06/29/1995
+155-AFG-PAK-61330,929,France,AFG,Asia,Southern,No,GS,President,Najibullah,Najibullah Najibullah,1,Tanzania,Other,Other,No,No,1990,01/13/1990,02/03/1990
+100-AFG-SUN-96364,1528,Saudi Arabia,AFG,Asia,Southern,No,GS,King,Karzai,Karzai Karzai,0,Chile,Other,Other,No,Yes,2006,02/02/2006,10/09/2006
+146-AFG-SUN-42690,1491,Greece,AFG,Asia,Southern,Yes,De Facto,Emperor,Najibullah,Najibullah Najibullah,0,Bulgaria,Other,Other,Yes,No,1999,10/06/1999,11/12/1999
+540-AFG-TJK-81652,1629,Angola,AFG,Asia,Southern,No,De Facto,General Secretary,Karzai,Karzai Karzai,1,Mozambique,Other,Other,No,No,2008,07/06/2008,11/22/2008
+352-AFG-IRN-41487,677,Malawi,AFG,Asia,Southern,No,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Bolivia,Other,Other,Yes,No,2006,09/01/2006,09/25/2006
+706-AFG-UZB-61504,1186,Kuwait,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,0,Sweden,Other,Other,Yes,Yes,1994,01/08/1994,09/03/1994
+895-AFG-IRN-62367,1730,United Arab Emirates,AFG,Asia,Southern,Yes,De Facto,General Secretary,Rabbani,Rabbani Rabbani,0,Haiti,Other,Other,Yes,No,2001,04/02/2001,05/31/2001
+411-AFG-IND-36134,1571,Singapore,AFG,Asia,Southern,Yes,GS,Emperor,Rabbani,Rabbani Rabbani,0,Angola,Other,Other,No,Yes,1999,04/26/1999,11/26/1999
+127-AFG-IND-97761,402,Afghanistan,AFG,Asia,Southern,No,De Facto,Chancellor,Rabbani,Rabbani Rabbani,0,Botswana,Other,Other,Yes,Yes,1997,03/08/1997,10/06/1997
+641-AFG-UZB-67152,836,Congo,AFG,Asia,Southern,Yes,De Facto,General Secretary,Najibullah,Najibullah Najibullah,1,Netherlands,Other,Other,Yes,No,1994,08/10/1994,12/23/1994
+520-AFG-UZB-59086,540,Iraq,AFG,Asia,Southern,Yes,GS,Emperor,Rabbani,Rabbani Rabbani,0,Serbia,Other,Other,No,Yes,2008,03/17/2008,11/01/2008
+293-AFG-IND-89520,1797,Kuwait,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,1,Kuwait,Other,Other,Yes,No,2021,06/24/2021,09/29/2021
+934-AFG-UZB-94238,140,United Arab Emirates,AFG,Asia,Southern,No,GS,General Secretary,Najibullah,Najibullah Najibullah,0,Oman,Other,Other,No,Yes,1991,05/13/1991,06/28/1991
+257-AFG-IRN-64962,1785,Trinidad and Tobago,AFG,Asia,Southern,No,De Facto,President,Rabbani,Rabbani Rabbani,1,Sri Lanka,Other,Other,No,No,2003,01/14/2003,01/26/2003
+905-AFG-TJK-74249,985,Peru,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Sweden,Other,Other,No,Yes,1994,03/09/1994,07/16/1994
+650-AFG-IND-74088,948,Australia,AFG,Asia,Southern,No,De Facto,Emperor,Karzai,Karzai Karzai,1,Estonia,Other,Other,Yes,Yes,1991,03/14/1991,09/05/1991
+171-AFG-IND-40661,229,Chile,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,0,Rwanda,Other,Other,Yes,Yes,2002,02/04/2002,11/08/2002
+436-AFG-PAK-94744,1012,Latvia,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Uzbekistan,Asia,Southern,Yes,Yes,2010,08/31/2010,10/26/2010
+109-AFG-IRN-91844,1865,Ecuador,AFG,Asia,Southern,Yes,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Moldova,Other,Other,No,Yes,2015,04/28/2015,08/16/2015
+487-AFG-IRN-97414,1847,Sierra Leone,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,1,South Africa,Africa,Northern/Southern,Yes,Yes,2023,07/09/2023,12/27/2023
+328-AFG-UZB-91937,1988,Austria,AFG,Asia,Southern,No,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,Jamaica,Other,Other,No,Yes,1998,07/11/1998,09/20/1998
+743-AFG-TJK-35302,1513,Jamaica,AFG,Asia,Southern,Yes,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Turkmenistan,Other,Other,Yes,No,2005,01/27/2005,07/21/2005
+418-AFG-IND-51264,1909,France,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,1,Romania,Other,Other,No,Yes,2021,11/25/2021,12/28/2021
+906-AFG-UZB-62582,405,Lesotho,AFG,Asia,Southern,No,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Croatia,Other,Other,Yes,Yes,1992,06/29/1992,07/11/1992
+926-AFG-PAK-92147,1323,Namibia,AFG,Asia,Southern,Yes,S,Emperor,Najibullah,Najibullah Najibullah,0,Rwanda,Other,Other,No,No,1992,03/11/1992,03/15/1992
+840-AFG-UZB-45837,1897,Jordan,AFG,Asia,Southern,No,De Facto,Acting President,Najibullah,Najibullah Najibullah,0,Eswatini,Other,Other,Yes,No,1990,07/12/1990,11/20/1990
+164-AFG-UZB-96415,1490,Peru,AFG,Asia,Southern,Yes,De Facto,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Ivory Coast,Other,Other,No,Yes,2012,04/28/2012,09/19/2012
+768-AFG-UZB-98987,1379,Bulgaria,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,1,Haiti,Other,Other,No,Yes,2011,05/10/2011,12/16/2011
+704-AFG-IND-91312,1081,India,AFG,Asia,Southern,Yes,GS,Chancellor,Karzai,Karzai Karzai,1,Bulgaria,Other,Other,Yes,No,2016,01/23/2016,05/22/2016
+799-AFG-IND-35882,1645,Belarus,AFG,Asia,Southern,Yes,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,0,Slovakia,Other,Other,No,No,2019,01/04/2019,05/13/2019
+603-AFG-TJK-91906,1667,Kazakhstan,AFG,Asia,Southern,Yes,S,Acting President,Rabbani,Rabbani Rabbani,1,United Arab Emirates,Other,Other,No,Yes,2009,03/25/2009,11/27/2009
+202-AFG-IND-77009,1812,Russia,AFG,Asia,Southern,No,De Facto,Chancellor,Karzai,Karzai Karzai,0,Malaysia,Other,Other,No,No,1991,01/26/1991,08/13/1991
+776-AFG-TJK-55588,1399,Turkmenistan,AFG,Asia,Southern,Yes,GS,King,Rabbani,Rabbani Rabbani,0,Denmark,Other,Other,Yes,Yes,2009,07/18/2009,10/06/2009
+143-AFG-TJK-49415,1549,Panama,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,1,Ireland,Other,Other,Yes,Yes,2007,04/19/2007,12/01/2007
+691-AFG-UZB-92975,1440,Syria,AFG,Asia,Southern,Yes,De Facto,Chancellor,Rabbani,Rabbani Rabbani,1,Japan,Other,Other,Yes,No,2007,09/12/2007,09/14/2007
+820-AFG-UZB-56940,1672,New Zealand,AFG,Asia,Southern,Yes,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,Sierra Leone,Other,Other,Yes,Yes,2006,01/04/2006,10/03/2006
+280-AFG-IRN-47886,1800,Bangladesh,AFG,Asia,Southern,No,S,President,Karzai,Karzai Karzai,1,Egypt,Africa,Northern/Southern,Yes,Yes,2004,01/22/2004,04/06/2004
+617-AFG-IND-34806,1547,Rwanda,AFG,Asia,Southern,No,GS,Acting President,Mojadedi,Mojadedi Mojadedi,1,Ukraine,Other,Other,No,No,2021,04/24/2021,08/26/2021
+786-AFG-IRN-95894,950,Qatar,AFG,Asia,Southern,No,GS,Acting President,Najibullah,Najibullah Najibullah,0,Vietnam,Other,Other,No,No,1995,04/16/1995,12/29/1995
+427-AFG-PAK-66518,1594,Niger,AFG,Asia,Southern,No,De Facto,Acting President,Karzai,Karzai Karzai,0,Afghanistan,Asia,Southern,Yes,No,1998,06/15/1998,08/24/1998
+484-AFG-SUN-46659,1490,New Zealand,AFG,Asia,Southern,No,S,Head of State,Rabbani,Rabbani Rabbani,1,Kenya,Africa,Northern/Southern,No,Yes,2002,02/02/2002,06/21/2002
+408-AFG-TJK-47233,1932,Yemen,AFG,Asia,Southern,Yes,S,Chancellor,Mojadedi,Mojadedi Mojadedi,0,South Africa,Africa,Northern/Southern,Yes,Yes,2014,03/06/2014,04/07/2014
+859-AFG-IND-45842,420,Afghanistan,AFG,Asia,Southern,Yes,S,Prime Minister,Najibullah,Najibullah Najibullah,1,Dominican Republic,Other,Other,No,No,2007,02/14/2007,09/12/2007
+718-AFG-SUN-68006,549,Iceland,AFG,Asia,Southern,No,GS,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,China,Other,Other,No,Yes,1995,05/01/1995,10/02/1995
+675-AFG-UZB-58997,1717,Ivory Coast,AFG,Asia,Southern,Yes,S,President,Najibullah,Najibullah Najibullah,1,Estonia,Other,Other,No,No,2000,01/15/2000,06/14/2000
+437-AFG-IND-62873,1820,Ireland,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,South Africa,Africa,Northern/Southern,No,No,2001,09/19/2001,12/25/2001
+810-AFG-TJK-99032,211,Belgium,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,1,Pakistan,Asia,Southern,No,Yes,2006,04/26/2006,11/28/2006
+703-AFG-IND-69026,232,United Arab Emirates,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,1,Sri Lanka,Other,Other,No,Yes,2009,05/12/2009,07/22/2009
+170-AFG-SUN-43557,301,Nepal,AFG,Asia,Southern,No,S,General Secretary,Rabbani,Rabbani Rabbani,0,Armenia,Other,Other,Yes,Yes,2006,06/16/2006,08/31/2006
+935-AFG-TJK-35057,692,Uganda,AFG,Asia,Southern,Yes,GS,Head of State,Rabbani,Rabbani Rabbani,1,Trinidad and Tobago,Other,Other,Yes,Yes,1990,01/06/1990,04/16/1990
+869-AFG-IRN-93932,1669,Tajikistan,AFG,Asia,Southern,Yes,GS,Acting President,Rabbani,Rabbani Rabbani,0,Uzbekistan,Asia,Southern,Yes,Yes,1990,08/26/1990,11/23/1990
+542-AFG-TJK-35634,872,Italy,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,Bolivia,Other,Other,No,No,1990,01/26/1990,05/29/1990
+469-AFG-IND-88972,100,Germany,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Ecuador,Other,Other,No,Yes,1993,09/10/1993,10/01/1993
+648-AFG-SUN-38064,1600,Cameroon,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Singapore,Other,Other,No,Yes,2007,01/11/2007,07/13/2007
+735-AFG-IRN-55950,151,Honduras,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,1,Indonesia,Other,Other,No,Yes,2005,07/02/2005,08/27/2005
+827-AFG-SUN-74308,641,Pakistan,AFG,Asia,Southern,Yes,De Facto,General Secretary,Najibullah,Najibullah Najibullah,0,Saudi Arabia,Other,Other,No,No,2017,01/17/2017,05/29/2017
+198-AFG-SUN-43487,1960,Yemen,AFG,Asia,Southern,Yes,GS,King,Najibullah,Najibullah Najibullah,1,Indonesia,Other,Other,Yes,Yes,1990,01/09/1990,07/21/1990
+784-AFG-UZB-57967,1264,Colombia,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,0,Maldives,Other,Other,Yes,No,1996,03/31/1996,10/23/1996
+532-AFG-PAK-33568,326,Malawi,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,0,Bhutan,Other,Other,No,No,2020,01/05/2020,09/25/2020
+366-AFG-IRN-52067,1351,Paraguay,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Botswana,Other,Other,Yes,Yes,2018,07/17/2018,08/03/2018
+735-AFG-TJK-54699,1110,Paraguay,AFG,Asia,Southern,No,GS,President,Najibullah,Najibullah Najibullah,1,Senegal,Other,Other,No,No,2022,03/25/2022,05/29/2022
+526-AFG-IND-48243,1486,Slovakia,AFG,Asia,Southern,No,S,Head of State,Mojadedi,Mojadedi Mojadedi,0,Cuba,Other,Other,No,No,2007,09/30/2007,11/30/2007
+624-AFG-UZB-82497,1547,Vietnam,AFG,Asia,Southern,No,De Facto,Head of State,Karzai,Karzai Karzai,1,Ivory Coast,Other,Other,Yes,No,1990,04/03/1990,09/08/1990
+601-AFG-UZB-81961,256,South Sudan,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,0,Singapore,Other,Other,No,Yes,1994,07/15/1994,12/30/1994
+214-AFG-TJK-86919,1612,Netherlands,AFG,Asia,Southern,Yes,GS,President,Rabbani,Rabbani Rabbani,0,Thailand,Other,Other,No,No,2019,07/18/2019,11/28/2019
+342-AFG-TJK-49346,1666,Central African Republic,AFG,Asia,Southern,Yes,GS,Emperor,Najibullah,Najibullah Najibullah,0,Chad,Other,Other,Yes,Yes,2022,05/10/2022,08/07/2022
+267-AFG-TJK-68954,1900,Czech Republic,AFG,Asia,Southern,Yes,S,Head of State,Mojadedi,Mojadedi Mojadedi,1,Indonesia,Other,Other,No,Yes,1995,02/25/1995,08/20/1995
+862-AFG-SUN-96125,1630,Sudan,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Indonesia,Other,Other,No,No,2012,03/14/2012,12/23/2012
+795-AFG-UZB-72650,694,Norway,AFG,Asia,Southern,Yes,GS,Acting President,Karzai,Karzai Karzai,1,Iceland,Other,Other,No,No,2011,02/27/2011,03/24/2011
+922-AFG-IRN-69674,1888,Hungary,AFG,Asia,Southern,Yes,S,Emperor,Najibullah,Najibullah Najibullah,1,Belgium,Other,Other,Yes,No,2021,03/13/2021,09/22/2021
+256-AFG-PAK-44860,383,Belgium,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Turkmenistan,Other,Other,Yes,Yes,2007,03/02/2007,07/10/2007
+700-AFG-IND-83049,1821,Guatemala,AFG,Asia,Southern,No,De Facto,President,Mojadedi,Mojadedi Mojadedi,1,Greece,Other,Other,No,No,1998,06/30/1998,09/01/1998
+985-AFG-IND-70096,1659,Armenia,AFG,Asia,Southern,Yes,De Facto,Chancellor,Karzai,Karzai Karzai,1,Kazakhstan,Other,Other,No,No,2003,04/06/2003,04/16/2003
+485-AFG-SUN-69266,439,Uruguay,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,0,France,Europe,Western,No,No,2006,08/19/2006,10/25/2006
+195-AFG-TJK-60801,182,France,AFG,Asia,Southern,No,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Guatemala,Other,Other,Yes,No,2016,02/04/2016,03/22/2016
+960-AFG-TJK-48011,1426,Azerbaijan,AFG,Asia,Southern,Yes,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Angola,Other,Other,Yes,Yes,2014,11/09/2014,12/11/2014
+896-AFG-SUN-51440,1921,Syria,AFG,Asia,Southern,No,De Facto,King,Rabbani,Rabbani Rabbani,1,Colombia,Other,Other,Yes,Yes,1995,06/16/1995,08/05/1995
+724-AFG-UZB-61144,1583,Venezuela,AFG,Asia,Southern,Yes,S,Emperor,Karzai,Karzai Karzai,1,United States,America,North/South,No,Yes,2007,04/19/2007,08/29/2007
+624-AFG-SUN-51934,145,Venezuela,AFG,Asia,Southern,Yes,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Serbia,Other,Other,No,No,1992,01/01/1992,01/08/1992
+869-AFG-IND-64553,1360,Ireland,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Estonia,Other,Other,No,Yes,1995,05/19/1995,08/28/1995
+978-AFG-IRN-60818,221,Trinidad and Tobago,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,0,Mauritius,Other,Other,No,Yes,2020,01/01/2020,04/02/2020
+150-AFG-TJK-95124,326,Zambia,AFG,Asia,Southern,No,S,Emperor,Mojadedi,Mojadedi Mojadedi,0,Turkey,Other,Other,Yes,No,1994,02/14/1994,03/15/1994
+290-AFG-IRN-85467,1773,Zambia,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Oman,Other,Other,No,Yes,2011,04/24/2011,08/16/2011
+347-AFG-PAK-51794,1051,Norway,AFG,Asia,Southern,No,S,Prime Minister,Rabbani,Rabbani Rabbani,1,Zimbabwe,Other,Other,No,Yes,2015,03/06/2015,10/28/2015
+148-AFG-PAK-37333,1676,Russia,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,0,Ireland,Other,Other,No,Yes,2013,01/14/2013,12/01/2013
+438-AFG-IRN-68784,1759,Mali,AFG,Asia,Southern,Yes,GS,Prime Minister,Karzai,Karzai Karzai,0,Brazil,America,North/South,Yes,No,1998,07/06/1998,09/28/1998
+331-AFG-SUN-99740,1767,Kazakhstan,AFG,Asia,Southern,No,De Facto,President,Karzai,Karzai Karzai,1,Cameroon,Other,Other,No,Yes,2009,03/25/2009,12/09/2009
+361-AFG-IRN-45298,1265,Bhutan,AFG,Asia,Southern,No,S,King,Karzai,Karzai Karzai,1,Maldives,Other,Other,Yes,No,2001,06/21/2001,06/30/2001
+479-AFG-IRN-50634,1446,Uruguay,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,1,Mozambique,Other,Other,No,Yes,2005,05/04/2005,08/20/2005
+205-AFG-IRN-78887,1900,Lesotho,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,0,Spain,Europe,Western,Yes,Yes,2006,01/14/2006,10/11/2006
+983-AFG-SUN-73510,121,Uruguay,AFG,Asia,Southern,Yes,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,Bhutan,Other,Other,Yes,No,2018,05/04/2018,06/09/2018
+225-AFG-PAK-34750,1553,Ukraine,AFG,Asia,Southern,No,S,King,Mojadedi,Mojadedi Mojadedi,0,Sri Lanka,Other,Other,No,Yes,2019,04/21/2019,07/26/2019
+615-AFG-SUN-76600,1237,Oman,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,0,Peru,Other,Other,No,Yes,2016,05/28/2016,11/25/2016
+114-AFG-TJK-93124,905,Tajikistan,AFG,Asia,Southern,Yes,GS,Emperor,Rabbani,Rabbani Rabbani,0,Germany,Europe,Western,No,No,2014,03/31/2014,06/24/2014
+360-AFG-SUN-37886,859,El Salvador,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,1,El Salvador,Other,Other,No,Yes,2022,08/25/2022,11/24/2022
+977-AFG-TJK-46019,299,Bolivia,AFG,Asia,Southern,Yes,S,Head of State,Najibullah,Najibullah Najibullah,0,Finland,Other,Other,Yes,No,2007,06/04/2007,07/17/2007
+568-AFG-PAK-84022,1097,Sierra Leone,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,0,Sierra Leone,Other,Other,Yes,Yes,2023,03/12/2023,11/07/2023
+695-AFG-UZB-87961,1754,Maldives,AFG,Asia,Southern,Yes,S,Acting President,Rabbani,Rabbani Rabbani,0,Finland,Other,Other,No,No,2019,05/16/2019,06/29/2019
+753-AFG-IND-89277,633,Eswatini,AFG,Asia,Southern,Yes,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Romania,Other,Other,No,No,2021,08/19/2021,11/10/2021
+663-AFG-TJK-41526,727,Tajikistan,AFG,Asia,Southern,Yes,S,Acting President,Rabbani,Rabbani Rabbani,0,Chile,Other,Other,No,No,2018,03/25/2018,08/30/2018
+804-AFG-SUN-93250,1504,Indonesia,AFG,Asia,Southern,Yes,S,Acting President,Najibullah,Najibullah Najibullah,0,Democratic Republic of the Congo,Other,Other,Yes,Yes,1995,07/31/1995,11/06/1995
+370-AFG-IND-95175,1820,Latvia,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,0,India,Asia,Southern,Yes,Yes,2009,06/07/2009,11/10/2009
+439-AFG-IRN-50780,975,Seychelles,AFG,Asia,Southern,Yes,De Facto,General Secretary,Najibullah,Najibullah Najibullah,1,Finland,Other,Other,Yes,No,2009,07/10/2009,11/24/2009
+967-AFG-TJK-69556,1590,Pakistan,AFG,Asia,Southern,No,De Facto,Prime Minister,Karzai,Karzai Karzai,0,Costa Rica,Other,Other,Yes,No,2009,05/19/2009,09/08/2009
+643-AFG-SUN-36371,175,Kazakhstan,AFG,Asia,Southern,Yes,De Facto,Acting President,Rabbani,Rabbani Rabbani,1,Brazil,America,North/South,Yes,No,2011,04/09/2011,12/13/2011
+811-AFG-UZB-97794,545,Mozambique,AFG,Asia,Southern,No,GS,Head of State,Karzai,Karzai Karzai,0,France,Europe,Western,Yes,No,2012,05/20/2012,10/18/2012
+655-AFG-SUN-39315,1997,Congo,AFG,Asia,Southern,Yes,De Facto,General Secretary,Karzai,Karzai Karzai,0,Estonia,Other,Other,No,No,2015,11/04/2015,12/28/2015
+939-AFG-TJK-98594,1425,Haiti,AFG,Asia,Southern,No,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,1,Maldives,Other,Other,Yes,No,2006,02/16/2006,11/18/2006
+765-AFG-IRN-96840,458,Sierra Leone,AFG,Asia,Southern,Yes,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,1,Greece,Other,Other,No,No,1996,01/19/1996,12/05/1996
+915-AFG-IRN-74608,1553,Bahrain,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,0,Sudan,Other,Other,Yes,No,2010,02/12/2010,11/29/2010
+233-AFG-TJK-92235,173,United States,AFG,Asia,Southern,No,S,President,Karzai,Karzai Karzai,1,Saudi Arabia,Other,Other,Yes,Yes,1993,04/24/1993,09/28/1993
+648-AFG-SUN-38395,763,Peru,AFG,Asia,Southern,Yes,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Panama,Other,Other,No,No,2008,06/18/2008,10/19/2008
+909-AFG-IND-96553,473,Namibia,AFG,Asia,Southern,Yes,S,Acting President,Rabbani,Rabbani Rabbani,1,Uzbekistan,Asia,Southern,Yes,Yes,2022,05/17/2022,11/25/2022
+760-AFG-TJK-55344,714,Switzerland,AFG,Asia,Southern,Yes,GS,President,Najibullah,Najibullah Najibullah,1,Pakistan,Asia,Southern,No,No,2013,08/08/2013,09/09/2013
+968-AFG-SUN-99528,346,Finland,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,1,Afghanistan,Asia,Southern,Yes,Yes,1995,07/29/1995,10/17/1995
+782-AFG-IRN-56595,1193,Colombia,AFG,Asia,Southern,Yes,De Facto,President,Rabbani,Rabbani Rabbani,0,New Zealand,Other,Other,Yes,Yes,2022,03/19/2022,08/31/2022
+711-AFG-SUN-41801,721,Czech Republic,AFG,Asia,Southern,Yes,S,Prime Minister,Karzai,Karzai Karzai,0,Switzerland,Other,Other,No,No,2015,07/26/2015,10/14/2015
+560-AFG-UZB-44970,424,India,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,1,Hungary,Other,Other,No,No,2020,04/12/2020,04/20/2020
+943-AFG-IRN-76495,1128,Denmark,AFG,Asia,Southern,No,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Trinidad and Tobago,Other,Other,Yes,No,2003,01/30/2003,05/28/2003
+274-AFG-PAK-44689,901,Thailand,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,0,Bulgaria,Other,Other,No,Yes,1998,03/27/1998,07/25/1998
+224-AFG-SUN-45641,1142,Saudi Arabia,AFG,Asia,Southern,No,De Facto,King,Rabbani,Rabbani Rabbani,1,Venezuela,Other,Other,Yes,No,1997,01/28/1997,11/29/1997
+955-AFG-TJK-76681,1506,Switzerland,AFG,Asia,Southern,No,S,General Secretary,Karzai,Karzai Karzai,1,Czech Republic,Other,Other,Yes,No,2022,01/14/2022,05/22/2022
+770-AFG-IRN-53356,302,Romania,AFG,Asia,Southern,No,S,Acting President,Mojadedi,Mojadedi Mojadedi,0,Cuba,Other,Other,Yes,Yes,2012,04/02/2012,04/25/2012
+471-AFG-TJK-63409,1943,Afghanistan,AFG,Asia,Southern,No,GS,Emperor,Rabbani,Rabbani Rabbani,0,Jordan,Other,Other,Yes,No,2010,08/25/2010,11/16/2010
+902-AFG-IRN-94584,1776,Mongolia,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,0,Romania,Other,Other,No,No,2000,06/28/2000,08/13/2000
+566-AFG-IND-73267,554,Qatar,AFG,Asia,Southern,No,GS,General Secretary,Najibullah,Najibullah Najibullah,1,Serbia,Other,Other,No,No,1999,03/10/1999,11/23/1999
+549-AFG-TJK-91259,275,Uruguay,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,1,Oman,Other,Other,No,Yes,1995,05/24/1995,10/24/1995
+778-AFG-IRN-41899,1329,Kenya,AFG,Asia,Southern,Yes,De Facto,Emperor,Najibullah,Najibullah Najibullah,1,Uzbekistan,Asia,Southern,No,No,1995,01/11/1995,09/01/1995
+748-AFG-SUN-61831,1623,Egypt,AFG,Asia,Southern,No,GS,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Namibia,Other,Other,No,No,2015,06/29/2015,07/10/2015
+719-AFG-IRN-38198,616,Afghanistan,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Latvia,Other,Other,No,Yes,2011,04/17/2011,09/14/2011
+218-AFG-TJK-40764,1788,Bangladesh,AFG,Asia,Southern,Yes,GS,Chancellor,Rabbani,Rabbani Rabbani,0,Bolivia,Other,Other,Yes,No,1991,03/29/1991,07/20/1991
+625-AFG-UZB-37466,1049,Haiti,AFG,Asia,Southern,Yes,De Facto,President,Najibullah,Najibullah Najibullah,0,Dominican Republic,Other,Other,Yes,Yes,2001,06/30/2001,12/07/2001
+638-AFG-TJK-99988,1017,Namibia,AFG,Asia,Southern,Yes,S,General Secretary,Najibullah,Najibullah Najibullah,1,Slovenia,Other,Other,No,No,2014,02/19/2014,07/28/2014
+976-AFG-SUN-81142,1989,Lithuania,AFG,Asia,Southern,No,De Facto,Chancellor,Najibullah,Najibullah Najibullah,0,Germany,Europe,Western,Yes,No,1992,03/14/1992,10/22/1992
+920-AFG-IRN-54026,932,China,AFG,Asia,Southern,Yes,S,Head of State,Karzai,Karzai Karzai,1,Jamaica,Other,Other,Yes,No,1992,07/31/1992,09/09/1992
+681-AFG-UZB-49415,1204,Japan,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Rabbani,Rabbani Rabbani,1,Guatemala,Other,Other,No,Yes,2018,05/22/2018,11/17/2018
+359-AFG-SUN-61833,521,Yemen,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,0,Azerbaijan,Other,Other,No,Yes,1993,01/24/1993,09/03/1993
+773-AFG-IRN-45591,109,Seychelles,AFG,Asia,Southern,Yes,GS,Emperor,Najibullah,Najibullah Najibullah,1,Argentina,America,North/South,No,Yes,1997,02/03/1997,08/28/1997
+156-AFG-IRN-91815,1685,South Africa,AFG,Asia,Southern,No,De Facto,Head of State,Najibullah,Najibullah Najibullah,0,United States,America,North/South,No,No,2014,03/21/2014,05/30/2014
+975-AFG-IRN-72542,935,Japan,AFG,Asia,Southern,Yes,De Facto,King,Najibullah,Najibullah Najibullah,0,Iceland,Other,Other,Yes,Yes,2008,01/12/2008,05/13/2008
+203-AFG-SUN-41625,1786,Austria,AFG,Asia,Southern,No,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Mexico,America,North/South,No,No,2011,01/23/2011,07/10/2011
+150-AFG-SUN-81417,455,Slovenia,AFG,Asia,Southern,Yes,GS,Head of State,Rabbani,Rabbani Rabbani,0,Sri Lanka,Other,Other,No,No,2010,09/04/2010,09/09/2010
+571-AFG-SUN-41549,1631,Italy,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Chile,Other,Other,Yes,Yes,2004,03/31/2004,05/06/2004
+815-AFG-IND-52836,1836,Pakistan,AFG,Asia,Southern,Yes,De Facto,Head of State,Rabbani,Rabbani Rabbani,1,Japan,Other,Other,No,No,2020,07/10/2020,12/12/2020
+611-AFG-UZB-96261,125,Turkmenistan,AFG,Asia,Southern,Yes,GS,Emperor,Rabbani,Rabbani Rabbani,0,Niger,Other,Other,Yes,Yes,2006,10/21/2006,12/30/2006
+914-AFG-UZB-94483,1165,Uruguay,AFG,Asia,Southern,Yes,De Facto,Head of State,Najibullah,Najibullah Najibullah,1,Australia,Other,Other,Yes,Yes,1997,07/12/1997,11/11/1997
+290-AFG-UZB-52574,1836,Zambia,AFG,Asia,Southern,Yes,GS,Acting President,Karzai,Karzai Karzai,1,Tajikistan,Asia,Southern,Yes,Yes,1994,01/01/1994,11/05/1994
+652-AFG-SUN-40822,1007,Mexico,AFG,Asia,Southern,Yes,GS,President,Rabbani,Rabbani Rabbani,0,Iraq,Other,Other,No,Yes,2000,03/02/2000,11/14/2000
+242-AFG-UZB-74514,994,Ukraine,AFG,Asia,Southern,No,S,President,Karzai,Karzai Karzai,0,Syria,Other,Other,Yes,Yes,2001,01/03/2001,01/15/2001
+976-AFG-IND-58006,715,Ireland,AFG,Asia,Southern,No,De Facto,Acting President,Karzai,Karzai Karzai,0,Iraq,Other,Other,No,No,2011,03/12/2011,05/04/2011
+936-AFG-IND-71851,892,Turkey,AFG,Asia,Southern,Yes,GS,King,Rabbani,Rabbani Rabbani,0,Lesotho,Other,Other,No,Yes,2017,07/23/2017,11/15/2017
+847-AFG-PAK-42216,103,Lebanon,AFG,Asia,Southern,Yes,GS,Head of State,Mojadedi,Mojadedi Mojadedi,1,Tajikistan,Asia,Southern,No,No,1996,07/16/1996,11/24/1996
+338-AFG-UZB-53493,1410,Estonia,AFG,Asia,Southern,Yes,GS,Acting President,Mojadedi,Mojadedi Mojadedi,0,Latvia,Other,Other,No,No,2022,02/15/2022,12/21/2022
+267-AFG-SUN-92014,132,Sweden,AFG,Asia,Southern,Yes,GS,President,Mojadedi,Mojadedi Mojadedi,1,Maldives,Other,Other,No,Yes,1998,10/18/1998,11/14/1998
+103-AFG-IRN-83985,993,Slovenia,AFG,Asia,Southern,Yes,GS,Acting President,Najibullah,Najibullah Najibullah,0,Indonesia,Other,Other,No,No,2017,04/20/2017,06/02/2017
+567-AFG-PAK-40316,1442,Maldives,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,0,South Korea,Other,Other,Yes,No,2020,04/23/2020,04/24/2020
+268-AFG-UZB-55126,1643,South Africa,AFG,Asia,Southern,No,GS,Emperor,Najibullah,Najibullah Najibullah,0,Bangladesh,Other,Other,No,No,2019,04/03/2019,04/11/2019
+218-AFG-UZB-97398,1064,Ivory Coast,AFG,Asia,Southern,Yes,De Facto,King,Karzai,Karzai Karzai,1,Barbados,Other,Other,Yes,No,2018,04/12/2018,07/07/2018
+602-AFG-UZB-72844,935,Philippines,AFG,Asia,Southern,No,De Facto,Chancellor,Karzai,Karzai Karzai,1,Haiti,Other,Other,No,Yes,2022,02/25/2022,04/05/2022
+450-AFG-IND-60868,1500,New Zealand,AFG,Asia,Southern,Yes,S,King,Karzai,Karzai Karzai,1,Peru,Other,Other,No,Yes,1996,03/12/1996,04/21/1996
+489-AFG-PAK-72771,1351,South Africa,AFG,Asia,Southern,No,GS,Chancellor,Najibullah,Najibullah Najibullah,0,Chile,Other,Other,Yes,No,2008,04/23/2008,05/17/2008
+424-AFG-TJK-96440,339,Botswana,AFG,Asia,Southern,Yes,GS,Emperor,Mojadedi,Mojadedi Mojadedi,0,Venezuela,Other,Other,No,Yes,2008,01/15/2008,10/14/2008
+255-AFG-IND-78463,1483,Romania,AFG,Asia,Southern,Yes,S,Chancellor,Najibullah,Najibullah Najibullah,0,Cameroon,Other,Other,Yes,Yes,2019,07/15/2019,12/09/2019
+500-AFG-IRN-81777,1158,Bulgaria,AFG,Asia,Southern,Yes,GS,Prime Minister,Najibullah,Najibullah Najibullah,0,Lebanon,Other,Other,Yes,Yes,2004,03/02/2004,10/08/2004
+889-AFG-UZB-95687,1488,Mali,AFG,Asia,Southern,No,De Facto,Emperor,Mojadedi,Mojadedi Mojadedi,1,Chile,Other,Other,Yes,Yes,1994,01/08/1994,08/27/1994
+167-AFG-TJK-87086,1235,Panama,AFG,Asia,Southern,Yes,De Facto,General Secretary,Mojadedi,Mojadedi Mojadedi,0,Tajikistan,Asia,Southern,No,No,1995,05/07/1995,11/13/1995
+864-AFG-UZB-50312,1754,Spain,AFG,Asia,Southern,No,De Facto,King,Karzai,Karzai Karzai,0,Maldives,Other,Other,Yes,Yes,2009,11/04/2009,12/13/2009
+344-AFG-PAK-69263,1807,Turkey,AFG,Asia,Southern,No,De Facto,Emperor,Rabbani,Rabbani Rabbani,1,Venezuela,Other,Other,No,Yes,2007,10/14/2007,11/13/2007
+699-AFG-UZB-65630,1966,Hungary,AFG,Asia,Southern,Yes,De Facto,General Secretary,Rabbani,Rabbani Rabbani,1,Turkmenistan,Other,Other,Yes,Yes,1992,11/19/1992,12/04/1992
+108-AFG-IRN-54361,1549,Netherlands,AFG,Asia,Southern,Yes,S,Chancellor,Mojadedi,Mojadedi Mojadedi,0,Egypt,Africa,Northern/Southern,Yes,Yes,1990,01/15/1990,07/15/1990
+110-AFG-TJK-95466,889,Botswana,AFG,Asia,Southern,Yes,De Facto,King,Mojadedi,Mojadedi Mojadedi,0,Bahrain,Other,Other,Yes,Yes,2018,03/29/2018,09/09/2018
+176-AFG-SUN-35508,1940,Eswatini,AFG,Asia,Southern,Yes,S,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Jordan,Other,Other,No,Yes,2008,01/21/2008,06/24/2008
+996-AFG-IND-48077,1809,Kyrgyzstan,AFG,Asia,Southern,No,S,Acting President,Karzai,Karzai Karzai,1,Mali,Other,Other,Yes,No,2022,02/17/2022,10/05/2022
+666-AFG-PAK-92553,378,Chile,AFG,Asia,Southern,No,GS,King,Mojadedi,Mojadedi Mojadedi,1,Philippines,Other,Other,Yes,Yes,1997,05/12/1997,05/12/1997
+244-AFG-IRN-83052,641,Kenya,AFG,Asia,Southern,No,GS,Prime Minister,Karzai,Karzai Karzai,1,Iran,Asia,Southern,Yes,No,2013,01/17/2013,11/23/2013
+825-AFG-TJK-83143,841,Botswana,AFG,Asia,Southern,No,De Facto,King,Karzai,Karzai Karzai,1,Sri Lanka,Other,Other,No,No,1995,07/27/1995,11/05/1995
+713-AFG-IND-77571,1108,Eswatini,AFG,Asia,Southern,Yes,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Congo,Other,Other,Yes,Yes,2008,03/29/2008,04/24/2008
+384-AFG-SUN-52567,1837,Eswatini,AFG,Asia,Southern,No,GS,President,Najibullah,Najibullah Najibullah,0,United Arab Emirates,Other,Other,Yes,No,2012,02/09/2012,07/28/2012
+703-AFG-TJK-71465,1291,Philippines,AFG,Asia,Southern,Yes,S,King,Mojadedi,Mojadedi Mojadedi,0,Colombia,Other,Other,No,No,2015,05/15/2015,11/29/2015
+733-AFG-IRN-61393,1304,Chad,AFG,Asia,Southern,No,S,Head of State,Rabbani,Rabbani Rabbani,1,Egypt,Africa,Northern/Southern,No,No,2019,06/01/2019,10/18/2019
+762-AFG-TJK-57825,917,Azerbaijan,AFG,Asia,Southern,No,GS,Head of State,Karzai,Karzai Karzai,1,Bahrain,Other,Other,Yes,No,2023,04/16/2023,12/05/2023
+219-AFG-IND-93144,1230,Czech Republic,AFG,Asia,Southern,No,S,Prime Minister,Karzai,Karzai Karzai,0,South Sudan,Other,Other,Yes,Yes,2020,04/19/2020,05/28/2020
+354-AFG-UZB-75699,1314,Pakistan,AFG,Asia,Southern,Yes,De Facto,President,Karzai,Karzai Karzai,1,Kenya,Africa,Northern/Southern,Yes,No,2014,03/05/2014,05/21/2014
+123-AFG-IRN-84043,309,Japan,AFG,Asia,Southern,Yes,De Facto,Head of State,Rabbani,Rabbani Rabbani,1,Maldives,Other,Other,Yes,No,1995,04/15/1995,12/25/1995
+293-AFG-UZB-88906,1342,Bangladesh,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Mojadedi,Mojadedi Mojadedi,1,Georgia,Other,Other,No,Yes,2023,07/31/2023,09/28/2023
+266-AFG-TJK-50331,382,Trinidad and Tobago,AFG,Asia,Southern,No,De Facto,King,Najibullah,Najibullah Najibullah,0,Sudan,Other,Other,No,Yes,2013,01/20/2013,12/28/2013
+395-AFG-UZB-95065,1031,Japan,AFG,Asia,Southern,No,GS,King,Rabbani,Rabbani Rabbani,0,Vietnam,Other,Other,No,Yes,1998,07/25/1998,11/29/1998
+448-AFG-PAK-47824,155,Thailand,AFG,Asia,Southern,Yes,GS,President,Karzai,Karzai Karzai,0,Iran,Asia,Southern,No,Yes,2023,01/12/2023,07/07/2023
+420-AFG-PAK-37939,983,Uzbekistan,AFG,Asia,Southern,No,GS,Chancellor,Mojadedi,Mojadedi Mojadedi,1,Chile,Other,Other,Yes,No,2022,04/11/2022,11/12/2022
+715-AFG-IND-76913,1165,Armenia,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,1,China,Other,Other,No,No,2005,06/22/2005,11/23/2005
+551-AFG-TJK-71180,1942,Bolivia,AFG,Asia,Southern,Yes,De Facto,Emperor,Karzai,Karzai Karzai,0,Afghanistan,Asia,Southern,No,Yes,2018,02/19/2018,05/19/2018
+388-AFG-IND-85124,1906,Estonia,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Rabbani,Rabbani Rabbani,0,Niger,Other,Other,No,No,1998,01/22/1998,09/22/1998
+849-AFG-IRN-99873,1002,Congo,AFG,Asia,Southern,Yes,GS,King,Mojadedi,Mojadedi Mojadedi,0,Singapore,Other,Other,No,Yes,2005,04/22/2005,06/26/2005
+551-AFG-TJK-42151,506,Central African Republic,AFG,Asia,Southern,No,S,Chancellor,Najibullah,Najibullah Najibullah,1,Cuba,Other,Other,Yes,Yes,1995,06/18/1995,11/17/1995
+717-AFG-SUN-68061,1830,Senegal,AFG,Asia,Southern,Yes,S,Prime Minister,Mojadedi,Mojadedi Mojadedi,0,Norway,Other,Other,No,Yes,2013,04/21/2013,06/19/2013
+449-AFG-IND-69743,1023,Thailand,AFG,Asia,Southern,No,S,Acting President,Najibullah,Najibullah Najibullah,1,United Arab Emirates,Other,Other,Yes,Yes,2023,02/18/2023,04/05/2023
+501-AFG-UZB-51282,1637,Malaysia,AFG,Asia,Southern,No,De Facto,President,Najibullah,Najibullah Najibullah,1,Maldives,Other,Other,Yes,No,2013,04/16/2013,05/28/2013
+220-AFG-IND-51038,1857,Latvia,AFG,Asia,Southern,Yes,GS,Emperor,Najibullah,Najibullah Najibullah,0,Chile,Other,Other,No,Yes,2015,04/30/2015,10/28/2015
+830-AFG-SUN-95452,1348,Georgia,AFG,Asia,Southern,No,GS,Acting President,Rabbani,Rabbani Rabbani,1,Czech Republic,Other,Other,No,No,2009,01/01/2009,04/21/2009
+256-AFG-SUN-35859,670,Colombia,AFG,Asia,Southern,Yes,GS,General Secretary,Karzai,Karzai Karzai,0,Cuba,Other,Other,Yes,No,2003,01/04/2003,12/04/2003
+820-AFG-TJK-96510,1151,Denmark,AFG,Asia,Southern,Yes,GS,Head of State,Mojadedi,Mojadedi Mojadedi,0,Switzerland,Other,Other,No,No,2018,08/12/2018,11/19/2018
+387-AFG-PAK-97012,591,Kyrgyzstan,AFG,Asia,Southern,No,De Facto,Head of State,Rabbani,Rabbani Rabbani,0,Slovakia,Other,Other,Yes,Yes,2023,03/18/2023,04/17/2023
+474-AFG-SUN-85542,689,Oman,AFG,Asia,Southern,Yes,GS,Acting President,Karzai,Karzai Karzai,1,Nepal,Other,Other,No,Yes,1997,02/25/1997,09/07/1997
+301-AFG-IRN-45439,1061,Malaysia,AFG,Asia,Southern,No,GS,Prime Minister,Rabbani,Rabbani Rabbani,1,Trinidad and Tobago,Other,Other,Yes,Yes,2013,04/14/2013,12/10/2013
+610-AFG-IRN-97711,1089,Argentina,AFG,Asia,Southern,No,De Facto,President,Karzai,Karzai Karzai,0,Chile,Other,Other,No,Yes,2016,08/26/2016,11/30/2016
+190-AFG-IND-55592,565,Seychelles,AFG,Asia,Southern,No,De Facto,Head of State,Mojadedi,Mojadedi Mojadedi,1,Australia,Other,Other,Yes,Yes,2007,03/31/2007,07/14/2007
+454-AFG-UZB-68496,1452,Senegal,AFG,Asia,Southern,No,S,King,Karzai,Karzai Karzai,1,Congo,Other,Other,No,Yes,2020,04/16/2020,11/15/2020
+207-AFG-IND-44517,1419,Romania,AFG,Asia,Southern,No,S,General Secretary,Mojadedi,Mojadedi Mojadedi,1,Argentina,America,North/South,No,No,2004,05/12/2004,12/26/2004
+291-AFG-UZB-93348,283,El Salvador,AFG,Asia,Southern,Yes,De Facto,Prime Minister,Najibullah,Najibullah Najibullah,1,Afghanistan,Asia,Southern,No,Yes,2017,07/23/2017,10/08/2017
+814-AFG-SUN-70628,1673,Angola,AFG,Asia,Southern,No,GS,President,Rabbani,Rabbani Rabbani,1,Lesotho,Other,Other,Yes,Yes,2017,09/01/2017,12/31/2017
+509-AFG-IRN-74298,670,Afghanistan,AFG,Asia,Southern,Yes,GS,Head of State,Najibullah,Najibullah Najibullah,1,Iraq,Other,Other,No,No,2007,10/17/2007,12/14/2007
+344-AFG-TJK-42472,160,India,AFG,Asia,Southern,Yes,GS,Emperor,Karzai,Karzai Karzai,0,Brazil,America,North/South,Yes,Yes,2002,11/04/2002,12/06/2002
+779-AFG-IRN-41568,869,Estonia,AFG,Asia,Southern,Yes,De Facto,Acting President,Mojadedi,Mojadedi Mojadedi,1,Georgia,Other,Other,Yes,No,1992,04/13/1992,04/26/1992
+542-AFG-IND-56654,1418,Dominican Republic,AFG,Asia,Southern,Yes,S,Chancellor,Rabbani,Rabbani Rabbani,1,China,Other,Other,No,Yes,2006,04/07/2006,10/29/2006
+400-AFG-UZB-58686,608,Angola,AFG,Asia,Southern,Yes,S,General Secretary,Rabbani,Rabbani Rabbani,0,United States,America,North/South,Yes,No,1991,04/14/1991,07/19/1991
+387-AFG-TJK-79063,1336,Slovakia,AFG,Asia,Southern,Yes,De Facto,King,Mojadedi,Mojadedi Mojadedi,1,Portugal,Other,Other,No,No,2008,04/29/2008,08/05/2008
